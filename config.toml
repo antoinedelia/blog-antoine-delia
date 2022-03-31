@@ -1,7 +1,7 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'Blog - Antoine Delia'
-theme = "clean-white"
+theme = "hugo-theme-cleanwhite"
 paginate = 5
 preserveTaxonomyNames = true
 
