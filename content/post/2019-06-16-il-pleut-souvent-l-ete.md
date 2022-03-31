@@ -4,7 +4,9 @@ author: Antoine Delia
 type: post
 date: 2019-06-16T13:41:35+00:00
 url: /2019/06/16/il-pleut-souvent-l-ete/
-
+tags:
+    - Récits
+categories: [ Récits ]
 ---
 Savais-tu, à ce moment-là, que cette nuit passée ensemble serait la dernière ? Aurais-tu agi différemment si tu l&#8217;avais su ? Ou ton comportement aurait été identique ?
 

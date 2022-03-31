@@ -4,7 +4,10 @@ author: Antoine Delia
 type: post
 date: 2018-07-06T13:24:56+00:00
 url: /2018/07/06/dernier-jour-chapitre-2/
-
+tags:
+    - Dernier Jour
+    - Récits
+categories: [ Récits ]
 ---
 Les techniciens s&#8217;affairaient sur le bord de la scène pour démonter tous les équipements. Il y avait de tout, des lampes, des écrans, des canons à fumée et bien évidemment des enceintes aussi lourdes qu&#8217;un éléphant. Les festivaliers s&#8217;étaient déjà dispersés et quelques personnes commençaient à nettoyer les détritus laissés par les visiteurs. Là aussi on retrouvait un large éventail d&#8217;objets en tout genre. Outre les habituels verres et canettes de bières, il y avait aussi des bracelets, des montres et parfois même des téléphones. Il n&#8217;était pas rare que pendant leur service, les employés chanceux trouvant une montre au sol la gardent comme réponse pour leur corvée. &#8220;Ces jeunes n&#8217;ont qu&#8217;à faire plus attention à leurs affaires&#8221;, se disaient-ils, sans doute.
 

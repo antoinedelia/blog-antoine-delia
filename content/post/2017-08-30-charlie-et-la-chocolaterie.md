@@ -6,6 +6,7 @@ date: 2017-08-30T16:23:38+00:00
 url: /2017/08/30/charlie-et-la-chocolaterie/
 tags:
     - Personnel
+    - Cuisine
 categories: [ Personnel ]
 ---
 Quand j&#8217;étais au collège, la TNT venait à peine d&#8217;être lancée. Pour les plus jeunes lisant cet article, il faut savoir qu&#8217;à mon époque, la télévision ne comptait que six chaînes. Ce chiffre semble ridicule à l&#8217;ère d&#8217;internet et lorsque la TNT est arrivée, c&#8217;était une vraie révolution. Il suffisait d&#8217;acheter un boitier spécial, et vous aviez accès à douze chaînes supplémentaires et gratuites. Mes amis me racontaient à quel point ils ne pouvaient plus se passer de leur soirée Simpsons le samedi soir sur W9. À ce propos, savez-vous que W9 est en fait le logo de M6 à l&#8217;envers ?

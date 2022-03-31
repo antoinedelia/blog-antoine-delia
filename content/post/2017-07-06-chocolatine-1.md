@@ -4,7 +4,10 @@ author: Antoine Delia
 type: post
 date: 2017-07-06T07:53:26+00:00
 url: /2017/07/06/chocolatine-1/
-
+tags:
+    - Chocolatine
+    - Récits
+categories: [ Récits ]
 ---
 De fines gouttes de pluie commençaient à tomber. Le soleil avait laissé place aux nuages et on pouvait déjà entendre le grondement de la foudre au loin. Le vent, de plus en plus violent, faisait danser les arbres sur un rythme peu commun. Dans la rue, une vague de parapluie avait fait son apparition. Il y en avait pour tous les goûts : des clairs, des foncés, des rayés, avec motifs, etc. On pouvait noter sur certains d&#8217;entre eux, des petites phrases humoristiques telles que &#8220;Après la pluie vient le beau temps&#8221;. Les enfants s&#8217;amusaient à sauter à pieds joints dans les flaques avec pour but de faire la plus grosse éclaboussure possible. Le quartier se vidait au fur et à mesure que la pluie s&#8217;intensifiait, et bientôt plus l&#8217;ombre d&#8217;une personne dans les rues.
 

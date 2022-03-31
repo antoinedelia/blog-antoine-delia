@@ -4,7 +4,8 @@ author: Antoine Delia
 type: post
 date: 2017-05-22T17:43:12+00:00
 url: /2017/05/22/on-the-road-again/
-
+tags:
+    - Voyage
 ---
 > Au fond, j&#8217;crois qu&#8217;la Terre est ronde, pour une seule bonne raison&#8230; Après avoir fait l&#8217;Tour du Monde, tout c&#8217;qu&#8217;on veut, c&#8217;est être à la maison &#8211; Orelsan
 

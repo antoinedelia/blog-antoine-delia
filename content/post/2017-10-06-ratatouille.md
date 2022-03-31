@@ -4,7 +4,10 @@ author: Antoine Delia
 type: post
 date: 2017-10-06T07:22:15+00:00
 url: /2017/10/06/ratatouille/
-
+tags:
+    - Récits
+    - Voyage
+categories: [ Récits ]
 ---
 J&#8217;adore voyager. J&#8217;ai visité plus d&#8217;une dizaine de pays dans ma vie et je ne compte pas m&#8217;arrêter en si bon chemin. Après [mon road-trip de l&#8217;an dernier][1], j&#8217;ai eu envie de partir à la conquête de mon pays préféré : la France. Ce voyage est prévu pour dans quelques années lorsque j&#8217;aurais le temps de parcourir l&#8217;hexagone. En attendant, laissez-moi vous raconter un week-end que j&#8217;ai passé à Paris il n&#8217;y a pas si longtemps.
 

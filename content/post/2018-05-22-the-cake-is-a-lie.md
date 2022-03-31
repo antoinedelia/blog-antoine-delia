@@ -4,7 +4,8 @@ author: Antoine Delia
 type: post
 date: 2018-05-22T20:19:43+00:00
 url: /2018/05/22/the-cake-is-a-lie/
-
+tags:
+    - Cuisine
 ---
 Quand j&#8217;avais 16 ans, **j&#8217;ai dû emménager dans un appartement pour mes études**. J&#8217;ai alors découvert ce qu&#8217;on appelle &#8220;la vie étudiante&#8221;. Se coucher tard, manger des pizzas et sortir tous les week-ends, voilà les trois ingrédients principaux pour réaliser un cocktail explosif qui vous laissera avec des cernes, des poignets d&#8217;amours et des envies de vomir au petit matin. Évidemment, je ne l&#8217;entendais pas de cette oreille et après des semaines à manger le même plat, j&#8217;ai voulu varier les plaisirs en suivant une recette comme un vrai chef ! Cette fois-ci, c&#8217;est un plat salé que je vous propose qui ravira vos convives lors d&#8217;un apéritif dînatoire.
 

@@ -6,7 +6,8 @@ date: 2018-11-12T21:47:32+00:00
 url: /2018/11/12/le-guide-pour-telecharger-illegalement-en-toute-securite/
 tags:
     - Personnel
-categories: [ Personnel ]
+    - Sur le web
+categories: [ Personnel, Sur le web ]
 ---
 <blockquote class="wp-block-quote">
   <p>

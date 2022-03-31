@@ -4,7 +4,10 @@ author: Antoine Delia
 type: post
 date: 2018-04-02T09:00:38+00:00
 url: /2018/04/02/culture-club-2-whiplash/
-
+tags:
+    - Culture Club
+    - Films
+categories: [ Culture Club ]
 ---
 Trois mois après la sortie de _La La Land_ en novembre 2016, le réalisateur Damien Chazelle se voit récompenser par l&#8217;Oscar du meilleur réalisateur, faisant ainsi de lui le plus jeune réalisateur à recevoir ce prix. J&#8217;ai eu la chance de voir ce film au cinéma avec le magnifique duo que forme Ryan Gosling et Emma Stone. Je me suis laissé emporter par les couleurs et les musiques du film (qui s&#8217;apparent presque à une comédie musicale) et j&#8217;ai eu envie de découvrir un peu plus l&#8217;univers de Damien Chazelle qui, à en croire sa filmographie, tourne beaucoup autour du jazz. Et aujourd&#8217;hui, nous allons parler de son deuxième film : **Whiplash**.
 

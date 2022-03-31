@@ -4,7 +4,10 @@ author: Antoine Delia
 type: post
 date: 2018-06-12T11:34:29+00:00
 url: /2018/06/12/dernier-jour-chapitre-1/
-
+tags:
+    - Dernier Jour
+    - Récits
+categories: [ Récits ]
 ---
 — Ça va être à toi dans deux minutes Liam. T’es prêt ?
 

@@ -4,7 +4,9 @@ author: Antoine Delia
 type: post
 date: 2018-12-31T09:32:24+00:00
 url: /2018/12/31/metamorphose/
-
+tags:
+    - Récits
+categories: [ Récits ]
 ---
 — Alors, tu es prêt ?  
 — Je ne sais pas&#8230; Tout cela me fait trop peur&#8230;

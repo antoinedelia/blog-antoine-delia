@@ -4,7 +4,10 @@ author: Antoine Delia
 type: post
 date: 2017-10-18T07:15:13+00:00
 url: /2017/10/18/i-have-a-dream-1/
-
+tags:
+    - Récits
+    - I Have a Dream
+categories: [ Récits ]
 ---
 C&#8217;est un vendredi que mon cœur a été brisé. Il faisait froid dehors comme n&#8217;importe quel jour d&#8217;hiver. Mais ce n&#8217;était pas n&#8217;importe quel jour pour moi. Aujourd&#8217;hui, j&#8217;allais demander la fille que j&#8217;aime le plus au monde de m&#8217;épouser. Nous nous sommes rencontrés lors de mon premier jour en tant que professeur. J&#8217;ai toujours voulu enseigner depuis mon plus jeune âge et j&#8217;adorais l&#8217;idée de partager mes connaissances à d&#8217;autres personnes pour qu&#8217;elles puissent apprendre de nouvelles choses. Là où je m&#8217;y connais le plus, c&#8217;est en biologie. Le corps humain me fascine de par sa complexité et mon but est de simplifier cela pour mes élèves. J&#8217;avais ainsi passé les quelques semaines avant ma rentrée à préparer mes cours, chapitre par chapitre, sans oublier le moindre petit détail. J&#8217;avais tout mis en œuvre pour qu&#8217;ils apprennent le plus possible, en évitant de les endormir dès la première phrase. Une fois que j’avais tout préparé, je me suis entraîné des dizaines de fois à parler seul dans ma salle de bain, m’imaginant face à une trentaine d’élèves. Les jours passèrent et sans crier gare, le lundi de la rentrée venait déjà toquer à ma porte. Je me sentais prêt.
 

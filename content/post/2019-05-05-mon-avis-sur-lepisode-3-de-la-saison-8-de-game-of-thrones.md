@@ -4,7 +4,9 @@ author: Antoine Delia
 type: post
 date: 2019-05-05T16:54:17+00:00
 url: /2019/05/05/mon-avis-sur-lepisode-3-de-la-saison-8-de-game-of-thrones/
-
+tags:
+    - Critiques
+    - Séries TV
 ---
 Dimanche dernier sortait aux États-Unis le tant attendu troisième épisode de l&#8217;ultime saison d&#8217;une des séries les plus populaires des dernières décennies. Cet épisode était d&#8217;autant plus attendu qu&#8217;il traitait de **la bataille de Winterfell**, la bataille des vivants contre les morts, thème évoqué depuis le début de la série. Et sur le papier, tout annonçait une réussite grandiose : l&#8217;épisode le plus long de toute la série avec 82 minutes, 750 personnes sur le tournage, 55 jours pour tourner l&#8217;intégralité de l&#8217;épisode, une séquence de bataille la plus longue de l&#8217;histoire de la télé et du cinéma et pour couronner le tout, **Miguel Sapochnik était à la réalisation** (on lui doit notamment [l&#8217;épisode de la bataille des bâtards, épisode le mieux noté de tous les temps sur le site IMDB][1]).
 

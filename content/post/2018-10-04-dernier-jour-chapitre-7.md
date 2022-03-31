@@ -4,7 +4,10 @@ author: Antoine Delia
 type: post
 date: 2018-10-04T20:05:08+00:00
 url: /2018/10/04/dernier-jour-chapitre-7/
-
+tags:
+    - Dernier Jour
+    - Récits
+categories: [ Récits ]
 ---
 <blockquote class="wp-block-quote">
   <p>

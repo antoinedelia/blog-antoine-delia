@@ -4,7 +4,10 @@ author: Antoine Delia
 type: post
 date: 2018-09-10T20:36:45+00:00
 url: /2018/09/10/dernier-jour-chapitre-5/
-
+tags:
+    - Dernier Jour
+    - Récits
+categories: [ Récits ]
 ---
  
 

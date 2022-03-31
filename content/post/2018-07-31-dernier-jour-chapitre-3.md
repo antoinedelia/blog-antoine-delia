@@ -4,7 +4,10 @@ author: Antoine Delia
 type: post
 date: 2018-07-31T20:53:12+00:00
 url: /2018/07/31/dernier-jour-chapitre-3/
-
+tags:
+    - Dernier Jour
+    - Récits
+categories: [ Récits ]
 ---
 — Les passagers pour le vol 854 à destination de Shannon sont priés de se présenter porte 5 pour embarquement immédiat.
 

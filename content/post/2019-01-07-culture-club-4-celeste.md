@@ -4,7 +4,10 @@ author: Antoine Delia
 type: post
 date: 2019-01-07T08:44:25+00:00
 url: /2019/01/07/culture-club-4-celeste/
-
+tags:
+    - Culture Club
+    - Jeux Vidéos
+categories: [ Culture Club ]
 ---
 Une des raisons pour lesquelles je me suis orienté vers l&#8217;informatique comme métier vient sans aucun doute des jeux vidéos. Dès mon plus jeune âge, j&#8217;ai passé je ne sais combien de temps à m&#8217;amuser sur des jeux de tous types. Il y avait Lucky Luke, Glace, DX Ball 2, Pokemon, PacMan, Dig Dug. Rien qu&#8217;à évoquer leur nom, un flot de nostalgie s&#8217;empare de moi. Et puis, j&#8217;ai eu mon tout premier ordinateur portable. J&#8217;ai alors évolué vers des jeux plus récents comme Super Meat Boy, Portal, Half-Life, Counter-Strike, Hotline Miami, Rogue Legacy, Resident Evil 4. Tant de jeux qui m&#8217;auront permis de me détendre et de me divertir durant des heures.
 

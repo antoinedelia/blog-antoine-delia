@@ -4,7 +4,10 @@ author: Antoine Delia
 type: post
 date: 2018-05-13T09:26:56+00:00
 url: /2018/05/13/intelligence-artificielle-dans-la-musique/
-
+tags:
+    - Musique
+    - Sur le web
+categories: [ Musique, Sur le web ]
 ---
 Lors de ma cinquième année à mon école d&#8217;ingénieurs, il nous a été demandé de faire un sujet de veille technologique. Concrètement, l&#8217;idée était de choisir un sujet en relation avec les nouvelles technologies et de réaliser une présentation en fin d&#8217;année sur ledit sujet. [M&#8217;intéressant grandement à la musique][1] et aux avancées de l&#8217;intelligence artificielle, mon sujet était tout trouvé. Maintenant que cette présentation est derrière moi, je me suis dit qu&#8217;il serait intéressant de vous montrer l&#8217;étude que j&#8217;ai réalisée là-dessus. Sans plus attendre, laissez-moi vous présenter cette conférence sur :
 

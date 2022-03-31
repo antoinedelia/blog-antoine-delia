@@ -4,7 +4,10 @@ author: Antoine Delia
 type: post
 date: 2018-11-22T18:49:56+00:00
 url: /2018/11/22/reddit-repost-2-the-place-to-be/
-
+tags:
+    - Sur le web
+    - Reddit Repost
+categories: [ Sur le web ]
 ---
 <blockquote class="wp-block-quote">
   <p>

@@ -4,7 +4,10 @@ author: Antoine Delia
 type: post
 date: 2018-10-17T16:46:23+00:00
 url: /2018/10/17/dernier-jour-chapitre-8/
-
+tags:
+    - Dernier Jour
+    - Récits
+categories: [ Récits ]
 ---
 Le soleil n&#8217;était presque plus visible lorsque nous passâmes près de ce marin qui nous jeta un regard interrogateur. Il s&#8217;agissait d&#8217;un homme d&#8217;une soixantaine d&#8217;années vêtu d&#8217;une salopette en jean qui dénouait le cordage de son bateau attaché à une borne d&#8217;amarrage, tandis que les autres bateaux accostés au port tanguaient en harmonie au rythme des vagues. Ses longs cheveux gris bataillaient dans tous les sens devant le vent qui se levait. En le voyant, je me disais qu&#8217;il allait prendre le large vers une destination inconnue, juste pour le goût de l&#8217;aventure, et même la tempête qui approchait ne lui faisait pas peur. Au contraire, c&#8217;est pour ça qu&#8217;il décidait de partir en mer, braver les dangers qui l&#8217;attendaient. Seul face au monde, voilà ce qui le faisait avancer.
 

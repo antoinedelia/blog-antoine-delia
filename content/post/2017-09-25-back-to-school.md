@@ -6,7 +6,8 @@ date: 2017-09-25T06:30:12+00:00
 url: /2017/09/25/back-to-school/
 tags:
     - Personnel
-categories: [ Personnel ]
+    - Musique
+categories: [ Personnel, Musique ]
 ---
 > Je cherche les notes qui s&#8217;aiment &#8211; Wolfgang Amadeus Mozart
 

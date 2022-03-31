@@ -4,7 +4,10 @@ author: Antoine Delia
 type: post
 date: 2018-04-12T19:42:30+00:00
 url: /2018/04/12/reddit-repost-1-ulysses-bucket-list/
-
+tags:
+    - Sur le web
+    - Reddit Repost
+categories: [ Sur le web ]
 ---
 > Note : **Reddit Repost** est un nouveau concept où je vous présenterai des **articles**, des **commentaires** ou des **idées** trouvés sur le site [Reddit][1] (que je vais vous décrire dans ce premier numéro). Il ne s&#8217;agit donc pas de contenu original puisque je ne ferai ici que traduire et présenter du contenu que d&#8217;autres personnes ont créé. Bonne lecture.
 

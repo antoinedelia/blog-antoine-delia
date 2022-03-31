@@ -4,7 +4,10 @@ author: Antoine Delia
 type: post
 date: 2018-09-17T17:00:46+00:00
 url: /2018/09/17/culture-club-3-comme-une-tombe/
-
+tags:
+    - Culture Club
+    - Livres
+categories: [ Culture Club ]
 ---
 Il est temps de reprendre cette série d&#8217;articles ! Aujourd&#8217;hui dans Culture Club [ce n&#8217;est pas une série][1], [ni un film][2], mais un livre que je vais vous partager et que j&#8217;ai, je dois bien l&#8217;avouer, dévoré en quelques jours.
 

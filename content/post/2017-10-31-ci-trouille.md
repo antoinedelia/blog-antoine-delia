@@ -4,7 +4,8 @@ author: Antoine Delia
 type: post
 date: 2017-10-31T18:41:04+00:00
 url: /2017/10/31/ci-trouille/
-
+tags:
+    - Nostalgie
 ---
 Il est assez facile de savoir que le mois d&#8217;octobre touche à sa fin. Entre les températures qui se refroidissent nous obligeant à sortir nos pulls du placard et le changement d&#8217;heure qui fait se coucher le soleil de bonne heure, tout est là pour nous rappeler la devise de la Maison Stark : _Winter Is Coming_. Mais avant de pouvoir célébrer Noël, il reste une fête qui marque le dernier jour d&#8217;octobre : Halloween. Ce jour permet aux plus petits de se déguiser et de partir à la chasse aux bonbons en toquant à toutes les portes du voisinage. Pour les autres, c&#8217;est l&#8217;occasion de se faire peur, ou de flanquer une bonne frousse à ses amis.
 

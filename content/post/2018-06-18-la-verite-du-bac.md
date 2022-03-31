@@ -6,7 +6,8 @@ date: 2018-06-18T14:56:44+00:00
 url: /2018/06/18/la-verite-du-bac/
 tags:
     - Personnel
-categories: [ Personnel ]
+    - Sur le web
+categories: [ Personnel, Sur le web ]
 ---
 Aujourd&#8217;hui se déroulait la première journée du Baccalauréat et comme chaque année, plus de 700 000 élèves ont ouvert le bal avec la magnifique et tragique épreuve de philosophie, matière redoutée de tous (exceptée peut-être de quelques littéraires, et encore). Par curiosité, j&#8217;ai décidé de regarder sur internet les sujets pour voir s&#8217;ils m&#8217;inspiraient quelque chose ou si j&#8217;allais être aussi abasourdi comme il y a 5 ans lorsque je me suis retrouvé sur cette chaise de classe, devant l&#8217;énoncé de mon sujet, où je ne suis resté qu&#8217;une petite heure et demie dans la salle pour finalement avoir un 6/20 bien mérité (à la vue des efforts fournis sur toute mon année, je ne méritais hélas pas plus, et ce malgré avoir cité Jiminy Cricket dans mon exposé).
 

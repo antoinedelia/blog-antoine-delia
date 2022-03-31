@@ -4,7 +4,10 @@ author: Antoine Delia
 type: post
 date: 2018-03-11T15:08:06+00:00
 url: /2018/03/11/i-have-a-dream-7/
-
+tags:
+    - Récits
+    - I Have a Dream
+categories: [ Récits ]
 ---
 [Précédent][1]
 

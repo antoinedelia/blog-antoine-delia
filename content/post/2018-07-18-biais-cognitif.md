@@ -4,7 +4,9 @@ author: Antoine Delia
 type: post
 date: 2018-07-18T19:05:44+00:00
 url: /2018/07/18/biais-cognitif/
-
+tags:
+    - Sur le web
+categories: [ Sur le web ]
 ---
 Qui n&#8217;a jamais entendu l&#8217;expression &#8220;l&#8217;habit ne fait pas le moine&#8221; ? Lorsque j&#8217;étais plus jeune, je ne saurais dire le nombre de fois que j&#8217;ai entendu cette phrase. Aujourd&#8217;hui, je ne sais toujours pas ce qu&#8217;un moine vient faire dans cette histoire, mais je me suis penché de plus près sur le type de cette phrase. En réalité, elle évoque un mécanisme de la pensée qui cause une déviation du jugement. Ici, notre tenue vestimentaire ne représente pas qui nous sommes et, une personne d&#8217;une haute classe sociale pourrait très bien s&#8217;habiller avec un débardeur et un jogging Nike. Ce genre de mésinterprétation porte un nom, il s&#8217;agit d&#8217;un **biais cognitif** et vous allez voir que derrière ce nom très scientifique se cachent plusieurs effets des plus divertissants. Je vous propose donc de vous en présenter quelques-uns par pur divertissement, mais sachez que connaître ces biais pourront vous servir pour éviter d&#8217;en commettre à l&#8217;avenir. Vous avez donc ici un article distrayant et éducatif, alors n&#8217;en perdez pas une miette !
 

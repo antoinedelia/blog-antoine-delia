@@ -4,7 +4,9 @@ author: Antoine Delia
 type: post
 date: 2017-12-24T15:30:32+00:00
 url: /2017/12/24/une-lueur-despoir/
-
+tags:
+    - Récits
+categories: [ Récits ]
 ---
 Pour la première fois depuis ses débuts, le père Noël se retrouvait avec une liste des &#8220;enfants sages&#8221; sans aucun nom. Comment allait-il distribuer tous les cadeaux que les lutins avaient confectionnés avec tant d&#8217;amour si personne ne les méritait ? Il devait sans doute y avoir une erreur et, afin d&#8217;en avoir le cœur net, il avait décidé de prendre son traîneau magique et d&#8217;aller voir ce qu&#8217;il en retournait directement dans les maisons des enfants qui étaient d&#8217;habitude les plus sages de tous. Il entra dans son garage privé et demanda aux rennes de se mettre en place afin de décoller. Comme à son habitude, il les compta rapidement afin d&#8217;être sûr que personne ne manquait à l&#8217;appel. Lors de ses premières tournées, il avait recruté huit rennes qu&#8217;il jugeait être les plus compétents de tous.
 

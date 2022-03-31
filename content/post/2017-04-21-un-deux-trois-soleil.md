@@ -4,7 +4,8 @@ author: Antoine Delia
 type: post
 date: 2017-04-21T08:33:17+00:00
 url: /2017/04/21/un-deux-trois-soleil/
-
+tags:
+    - Nostalgie
 ---
 Quand on grandit, nos passe-temps deviennent différents. Fini les heures passées devant des dessins animés ou à jouer à cache-cache. Aujourd&#8217;hui dès que nous prenons un break, nous allons soit fumer, discuter autour de la machine à café ou encore faire une petite sieste pour supporter les heures de travail restantes. Mais il fut un temps où chaque pause était l&#8217;occasion de s&#8217;amuser en jouant à de multiples jeux pourtant simples mais qui ne cessaient de nous divertir. Parfois **les choses les plus simples sont souvent les meilleures**. Je vous propose de m&#8217;accompagner à bord du **train de la nostalgie** afin de redécouvrir tous ces jeux que nous aimions tant étant enfants.
 

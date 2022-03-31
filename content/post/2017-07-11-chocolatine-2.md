@@ -4,7 +4,10 @@ author: Antoine Delia
 type: post
 date: 2017-07-11T18:52:57+00:00
 url: /2017/07/11/chocolatine-2/
-
+tags:
+    - Récits
+    - Chocolatine
+categories: [ Récits ]
 ---
 <p style="text-align: left;">
   <a href="https://blog.antoinedelia.fr/2017/07/06/chocolatine-1/">Précédent</a>

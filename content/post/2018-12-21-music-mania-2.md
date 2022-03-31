@@ -4,7 +4,10 @@ author: Antoine Delia
 type: post
 date: 2018-12-21T21:11:24+00:00
 url: /2018/12/21/music-mania-2/
-
+tags:
+    - Music Mania
+    - Musique
+categories: [ Musique ]
 ---
 Il y a seulement quelques jours de cela, Spotify mettait en ligne les morceaux les plus écoutés de l&#8217;année 2018. Et pour chaque utilisateur, une playlist a été créée spécialement pour eux afin de découvrir leurs meilleurs morceaux de cette année.
 

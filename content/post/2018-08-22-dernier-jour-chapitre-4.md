@@ -4,7 +4,10 @@ author: Antoine Delia
 type: post
 date: 2018-08-22T19:48:16+00:00
 url: /2018/08/22/dernier-jour-chapitre-4/
-
+tags:
+    - Dernier Jour
+    - Récits
+categories: [ Récits ]
 ---
 Cela devait bien faire une bonne dizaine d&#8217;années que je n&#8217;étais pas retourné dans mon pays natal. Et en contemplant le paysage à travers le hublot de l&#8217;avion, j&#8217;étais heureux de constater que tout était comme dans mes souvenirs. L&#8217;herbe verte dominait le territoire et de nombreux animaux profitaient de cette verdure pour gambader à loisir et manger à leur aise.
 

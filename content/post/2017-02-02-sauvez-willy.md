@@ -4,7 +4,9 @@ author: Antoine Delia
 type: post
 date: 2017-02-02T15:59:27+00:00
 url: /2017/02/02/sauvez-willy/
-
+tags:
+    - Sur le web
+categories: [ Sur le web ]
 ---
 On nous dit souvent que le dauphin est considéré comme [un des mammifères les plus intelligents][1]. Mais qu&#8217;en savons-nous réellement ? L&#8217;autre jour je suis tombé sur un article qui pourra vous montrer j&#8217;en suis sur à quel point nos amis les dauphins sont plus malins qu&#8217;on ne l&#8217;imagine.
 

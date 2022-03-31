@@ -4,7 +4,10 @@ author: Antoine Delia
 type: post
 date: 2018-11-02T15:07:39+00:00
 url: /2018/11/02/dernier-jour-chapitre-9-fin/
-
+tags:
+    - Dernier Jour
+    - Récits
+categories: [ Récits ]
 ---
 Sur le sol de mon appartement, des bouteilles d&#8217;alcool se partageaient la place avec des dizaines de boîtes de pizzas. Les fenêtres étaient restées fermées depuis mon arrivée, et une odeur de renfermé empestait l&#8217;endroit.
 

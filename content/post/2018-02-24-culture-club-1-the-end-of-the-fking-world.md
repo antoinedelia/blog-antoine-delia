@@ -4,7 +4,10 @@ author: Antoine Delia
 type: post
 date: 2018-02-24T19:08:20+00:00
 url: /2018/02/24/culture-club-1-the-end-of-the-fking-world/
-
+tags:
+    - Culture Club
+    - Séries TV
+categories: [ Culture Club ]
 ---
 > NOTE : **Culture Club** est un nouveau format où je vous présenterai de manière régulière un **film**, une **série**, un **jeu vidéo**, un **album** ou un **livre**. Ces articles auront pour but de vous faire découvrir de petites pépites culturelles que vous ne connaîtriez peut-être pas. Cette chronique viendra s&#8217;ajouter comme **bonus** aux autres articles. Bonne lecture.
 

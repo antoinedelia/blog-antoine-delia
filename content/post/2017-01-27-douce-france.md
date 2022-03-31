@@ -4,7 +4,10 @@ author: Antoine Delia
 type: post
 date: 2017-01-27T11:24:18+00:00
 url: /2017/01/27/douce-france/
-
+tags:
+    - Musique
+    - Nostalgie
+categories: [ Musique ]
 ---
 > Tout ce qui vient du cœur réussit. &#8211; Charles Trenet
 

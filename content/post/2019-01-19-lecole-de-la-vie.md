@@ -4,7 +4,9 @@ author: Antoine Delia
 type: post
 date: 2019-01-19T15:39:56+00:00
 url: /2019/01/19/lecole-de-la-vie/
-
+tags:
+    - Sur le web
+categories: [ Sur le web ]
 ---
 Lors de ma dernière année en école d&#8217;ingénieurs, plusieurs intervenants sont venus nous apprendre différents sujets sur le monde de l&#8217;entreprise. Il y en avait pour tous les goûts : comment résoudre un conflit, mettre en oeuvre et gérer un projet de bout en bout, la mise sur le marché d&#8217;un produit et bien d&#8217;autres encore. Certains sujets se révélaient plus passionnants que d&#8217;autres, car ils pouvaient s&#8217;appliquer non seulement au monde de l&#8217;entreprise, mais également à la vie de tous les jours. J&#8217;aimerai donc partager avec vous plusieurs de ces idées qui m&#8217;ont intéressé à l&#8217;époque et encore aujourd&#8217;hui.
 

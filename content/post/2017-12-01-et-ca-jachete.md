@@ -4,7 +4,9 @@ author: Antoine Delia
 type: post
 date: 2017-12-01T08:04:37+00:00
 url: /2017/12/01/et-ca-jachete/
-
+tags:
+    - Sur le web
+categories: [ Sur le web ]
 ---
 Aujourd&#8217;hui marque le premier jour du dernier mois de l&#8217;année à savoir, décembre. Ce merveilleux mois rime avec fêtes, repas de famille, hiver et **anniversaire d&#8217;une superstar** (le 9 décembre si j&#8217;en crois mes sources). Mais le jour que tout le monde attend avec impatience tombe un peu plus tard, lorsqu&#8217;un étrange vieil homme habillé de rouge et de blanc viendra vous rendre visite par votre cheminée pour poser au pied du sapin de merveilleux cadeaux (seulement si vous avez été sage cette année). Ce sera l&#8217;occasion pour certains de se voir offrir le dernier iPhone, une nouvelle console de jeu, ou tout simplement un peu d&#8217;argent pour se faire plaisir au cours de l&#8217;année. Mais est-ce que la consommation de tous ces produits nous rend vraiment heureux ? Y a-t-il un lien entre le nombre de cadeaux et le bonheur ? Je suis récemment tombé sur un article du philosophe et ancien ministre Luc Ferry qui tente de répondre à cette question.
 

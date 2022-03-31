@@ -4,7 +4,10 @@ author: Antoine Delia
 type: post
 date: 2018-08-12T10:41:28+00:00
 url: /2018/08/12/music-mania-1/
-
+tags:
+    - Music Mania
+    - Musique
+categories: [ Musique ]
 ---
 Aujourd&#8217;hui je lance une nouvelle série appelée Music Mania ! Oui, je sais ce que vous vous dites, **c&#8217;est la troisième série d&#8217;articles que je lance**, et vu la régularité des deux précédentes avec seulement [deux numéros de Culture Club][1] en cinq mois et [un unique article de Reddit Repost][2], on se dit tout de suite que ce sera sans doute un échec de plus pour ma tentative de régulariser ce blog à un article par semaine.
 

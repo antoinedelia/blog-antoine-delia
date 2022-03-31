@@ -4,7 +4,9 @@ author: Antoine Delia
 type: post
 date: 2017-07-21T16:26:11+00:00
 url: /2017/07/21/hear-what-i-hear/
-
+tags:
+    - Musique
+categories: [ Musique ]
 ---
 > Music is a piece of art that goes in the ears straight to the heart &#8211; Unknown
 
