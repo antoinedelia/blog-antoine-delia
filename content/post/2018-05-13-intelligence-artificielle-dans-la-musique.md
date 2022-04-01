@@ -99,7 +99,8 @@ Bien que l&#8217;intelligence artificielle soit extrêmement intéressante, elle
 
 Pour développer mon propos, vous trouverez ci-dessous une image représentant grossièrement le fonctionnement d&#8217;un tel processus.
 
-<figure style="width: 800px" class="wp-caption aligncenter"><img loading="lazy" title="L'intelligence artificielle : Explication du deep-learning, méthode avancée de l'intelligence artificielle" src="https://i0.wp.com/i.imgur.com/TbeCW3y.png?resize=800%2C681&#038;ssl=1" alt="Intelligence artificielle : Explication du deep-learning, méthode avancée de l'intelligence artificielle" width="800" height="681" data-recalc-dims="1" /><figcaption class="wp-caption-text">_Explication du deep learning_</figcaption></figure>
+![Intelligence artificielle : Explication du deep-learning, méthode avancée de l'intelligence artificielle](https://i0.wp.com/i.imgur.com/TbeCW3y.png?resize=800%2C681&#038;ssl=1)
+_Explication du deep learning_
 
 Ici, on donne à notre robot une photo de chat. Celui-ci va alors passer dans différentes couches qui ont pour chacune d&#8217;elles un but précis. Par exemple, la deuxième couche va essayer de reconnaître des traits caractéristiques des chats afin de savoir si oui ou non, l&#8217;image qu&#8217;il a reçue est bien celle d&#8217;un chat. Après avoir passé toutes les couches disponibles, le robot va proposer une solution. S&#8217;il a vu juste, il va mettre un score plus élevé sur les choix qu&#8217;il a faits pour trouver le résultat afin que lors d&#8217;un prochain essai, il soit en mesure de donner encore une fois la bonne réponse. À l&#8217;inverse, s&#8217;il s&#8217;est trompé, le score sera diminué afin de ne pas reproduire la même erreur.
 
@@ -139,13 +140,15 @@ Si vous voulez vous amuser avec des outils sur l&#8217;intelligence artificielle
 
 Ce petit outil conçu par un ingénieur chez Google reprend un peu ce que je vous expliquais précédemment. Il vous suffit de jouer quelques notes de musique, et la machine va essayer de &#8220;compléter&#8221; votre mélodie en jouant une suite de notes. [Google Duet AI][2]
 
-<figure style="width: 945px" class="wp-caption aligncenter"><img loading="lazy" src="https://i0.wp.com/i.imgur.com/nvXP3aI.png?resize=945%2C590&#038;ssl=1" alt="Google Duet AI" width="945" height="590" data-recalc-dims="1" /><figcaption class="wp-caption-text">_En bleu les notes que vous avez jouées, en jaune les notes de l&#8217;ordinateur_</figcaption></figure>
+![Google Duet AI](https://i0.wp.com/i.imgur.com/nvXP3aI.png?resize=945%2C590&#038;ssl=1)
+_En bleu les notes que vous avez jouées, en jaune les notes de l&#8217;ordinateur_
 
 ### Amper Music
 
 Celui-ci est encore plus impressionnant. Le site vous permet carrément de créer une courte chanson entièrement à l&#8217;aide d&#8217;un robot. L&#8217;avantage ici, c&#8217;est que le piano ne sera pas votre seul instrument. En effet, vous pouvez spécifier le style de musique que vous désirez, le type d&#8217;instruments, le rythme et même la durée. Ensuite, laissez l&#8217;ordinateur faire le reste et vous obtiendrez une chanson assez convaincante quand on sait que seule une intelligence artificielle en est à l&#8217;origine ! [Amper Music][3]
 
-<figure style="width: 1212px" class="wp-caption aligncenter"><img loading="lazy" src="https://i0.wp.com/i.imgur.com/Zf8dhNy.jpg?resize=1000%2C745&#038;ssl=1" alt="L'interface d'Amper Music" width="1000" height="745" data-recalc-dims="1" /><figcaption class="wp-caption-text">_L&#8217;interface d&#8217;Amper Music_</figcaption></figure>
+![L'interface d'Amper Music](https://i0.wp.com/i.imgur.com/Zf8dhNy.jpg?resize=1000%2C745&#038;ssl=1)
+_L&#8217;interface d&#8217;Amper Music_
 
 ## Conclusion
 

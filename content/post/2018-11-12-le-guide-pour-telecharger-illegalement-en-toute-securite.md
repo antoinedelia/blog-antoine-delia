@@ -31,12 +31,9 @@ Comment ? J&#8217;entends d&#8217;autres plaintes de l&#8217;autre côté de mon
 
 Pour cela, un exemple me vient en tête. <a href="https://store.steampowered.com/agecheck/app/219150/#" target="_blank" rel="noopener noreferrer">Hotline Miami</a> est un jeu vidéo sorti en 2012 et qui a fait beaucoup parler de lui pour une raison des plus intéressantes. Les créateurs du jeu ont mis en ligne sur des sites de téléchargement illégal une copie de leur jeu afin de le faire découvrir à des joueurs n&#8217;ayant pas les moyens de se l&#8217;acheter. Résultat, le jeu a énormément fait parler de lui et s&#8217;est vendu à plus de 2 millions d&#8217;exemplaires, rien que ça. Je compte moi-même parmi les détenteurs de ce jeu et j&#8217;ai également acheté le deuxième opus dès sa sortie, et je n&#8217;aurais jamais entendu parler de ce jeu sans le téléchargement illégal.
 
-Et si vous avez peur de rendre pauvre un acteur de cinéma ou un chanteur populaire, je vous laisse avec cet extrait d&#8217;<a href="https://fr.wikipedia.org/wiki/Rock_chr%C3%A9tien_(South_Park)" target="_blank" rel="noopener noreferrer">un épisode de South Park</a> qui résume assez bien la situation.<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"> 
+Et si vous avez peur de rendre pauvre un acteur de cinéma ou un chanteur populaire, je vous laisse avec cet extrait d&#8217;<a href="https://fr.wikipedia.org/wiki/Rock_chr%C3%A9tien_(South_Park)" target="_blank" rel="noopener noreferrer">un épisode de South Park</a> qui résume assez bien la situation.
 
-<div class="wp-block-embed__wrapper">
-  <div class="su-youtube su-u-responsive-media-yes">
-  </div>
-</div></figure> 
+[![South Park](https://img.youtube.com/vi/Kw2vtBkv2QI/0.jpg)](https://www.youtube.com/watch?v=Kw2vtBkv2QI)
 
 Avant de clôturer cette introduction, j&#8217;aimerais quand même vous inciter à, dans la mesure du possible, **soutenir les petits artistes en achetant leurs œuvres**. Pour tout ce que vous avez économisé en téléchargeant, vous pouvez largement aider une personne qui le mérite. Passons maintenant au vif du sujet.
 
@@ -82,9 +79,8 @@ Si vous avez bien étudié le lexique, vous savez maintenant ce qu&#8217;est un 
 
 Vous allez peut-être penser que cela n&#8217;est pas nécessaire. Et puis, après tout, payer pour un VPN, n&#8217;est-ce pas contradictoire avec le fait de télécharger illégalement ? Je comprends vos remarques et d&#8217;ailleurs, j&#8217;étais comme vous au début. Jusqu&#8217;au jour où **j&#8217;ai reçu un mail d&#8217;Hadopi** m&#8217;indiquant qu&#8217;ils m&#8217;avaient pris la main dans le sac et qu&#8217;au bout de la troisième fois, je risquais de payer une coquette somme d&#8217;argent, voir même de faire de la prison. Depuis ce mail terrifiant, j&#8217;ai rapidement installé un VPN et depuis ce jour, plus aucune nouvelle de mon cher ami Hadopi.
 
-<div class="wp-block-image">
-  <figure class="aligncenter"><img src="https://i0.wp.com/i.imgur.com/ToR0JXM.png?w=1000&#038;ssl=1" alt="" data-recalc-dims="1" /> <figcaption>J&#8217;en ai fait des cauchemars</figcaption> </figure>
-</div>
+![](https://i0.wp.com/i.imgur.com/ToR0JXM.png?w=1000&#038;ssl=1)
+_J&#8217;en ai fait des cauchemars_
 
 ## <a href="https://deluge-torrent.org/" target="_blank" rel="noopener noreferrer">Deluge</a>, aussi léger qu&#8217;une goutte d&#8217;eau
 
@@ -108,9 +104,8 @@ Enfin, voilà une petite liste de trackers publics sélectionnée par mes soins.
 
   * <a href="https://zooqle.com/" target="_blank" rel="noopener noreferrer"><strong>Zooqle</strong></a> : un de mes préférés en matière de films et de séries. L&#8217;interface du site est très propre et permet de naviguer très facilement.
 
-<div class="wp-block-image">
-  <figure class="aligncenter"><img src="https://i0.wp.com/2.bp.blogspot.com/-cDhRYuR1oUI/WR4MqhE0B-I/AAAAAAAA0Cc/P6g04Au_k98KfPIccN1xV0OnD-hkv5BzQCLcB/s1600/Zooqle.png?w=1000&#038;ssl=1" alt="" data-recalc-dims="1" /></figure>
-</div>
+![](https://i0.wp.com/2.bp.blogspot.com/-cDhRYuR1oUI/WR4MqhE0B-I/AAAAAAAA0Cc/P6g04Au_k98KfPIccN1xV0OnD-hkv5BzQCLcB/s1600/Zooqle.png?w=1000&#038;ssl=1)
+
 
   * <a href="https://rarbg.to/index8.php" target="_blank" rel="noopener noreferrer"><strong>RARBG</strong></a>** **ou <a href="https://1337x.to/" target="_blank" rel="noopener noreferrer"><strong>1337X</strong></a>** **: Là encore deux excellents sites pour tout ce qui est films et séries.
 
@@ -142,15 +137,16 @@ Le premier est que, pour partager, il faut que quelqu&#8217;un télécharge en m
 
 Le deuxième problème lui va venir du fait que vous n&#8217;êtes pas seul à vouloir partager. Vous allez être en &#8220;concurrence&#8221; avec des centaines, voire des milliers d&#8217;autres utilisateurs qui eux aussi veulent faire remonter leur ratio.
 
-Prenez par exemple le film Deadpool 2 sur le site yggtorrent. **Plus de 3000 personnes sont en train de le partager**, et seulement **une dizaine le télécharge** actuellement. Vous arrivez bien trop tard pour espérer remonter votre ratio.<figure class="wp-block-image">
+Prenez par exemple le film Deadpool 2 sur le site yggtorrent. **Plus de 3000 personnes sont en train de le partager**, et seulement **une dizaine le télécharge** actuellement. Vous arrivez bien trop tard pour espérer remonter votre ratio.
 
-<img src="https://i0.wp.com/i.imgur.com/9kdgqD1.png?w=1000&#038;ssl=1" alt="" data-recalc-dims="1" /> <figcaption>Notez la colonne &#8220;Seed&#8221; qui écrase littéralement la colonne &#8220;Leech&#8221;</figcaption> </figure> 
+![](https://i0.wp.com/i.imgur.com/9kdgqD1.png?w=1000&#038;ssl=1)
+_Notez la colonne &#8220;Seed&#8221; qui écrase littéralement la colonne &#8220;Leech&#8221;_
 
 Alors que faire dans ce genre de cas ? Eh bien **nous allons tricher**. Je sais, ce n&#8217;est pas véritablement honnête, mais nous sommes dans l&#8217;illégalité depuis le début, alors après tout, cela ne devrait pas vous poser problème. Nous allons utiliser un petit logiciel appelé <a href="http://www.k-upload.fr/afficher-fichier-2018-06-30-12b21aac3ratiomaster1.rar.html" target="_blank" rel="noopener noreferrer">RatioMaster</a> et qui est malheureusement seulement disponible sur Windows (désolé aux amoureux de la pomme). Cela va nous permettre de simuler un partage vers un utilisateur. Ainsi, votre tracker va vous rajouter des points et votre ratio augmentera à vue d’œil !
 
 Pour ce faire, insérez votre fichier torrent dans l&#8217;encadré en haut et configurez le logiciel selon les valeurs affichées sur l&#8217;image ci-dessous. Lorsque tout est bon, appuyez sur &#8220;Start&#8221; pour lancer le partage (attention, il faut impérativement qu&#8217;il y ait au moins un leecher pour pouvoir démarrer le processus).
 
-<img class="aligncenter" src="https://i0.wp.com/i.imgur.com/gWRlM6v.png?w=1000&#038;ssl=1" data-recalc-dims="1" /> 
+![](https://i0.wp.com/i.imgur.com/gWRlM6v.png?w=1000&#038;ssl=1)
 
 ## Les bonnes pratiques
 
@@ -170,6 +166,5 @@ Pour finir, je souhaite que ce petit guide vous aide à mieux vous y retrouver d
 
 Enfin, et comme je vous l&#8217;ai précisé en introduction, **si vous découvrez une oeuvre qui vous touche vraiment, pensez à acheter l&#8217;oeuvre originale pour soutenir les artistes**. Car, bien que vous pouvez être un méchant pirate et tout garder pour vous, l&#8217;océan est bien plus agréable à naviguer lorsqu&#8217;on est un gentil pirate.
 
-<div class="wp-block-image">
-  <figure class="aligncenter is-resized"><img loading="lazy" src="https://i0.wp.com/i.imgur.com/Nhdu7AR.jpg?resize=580%2C580&#038;ssl=1" alt="" width="580" height="580" data-recalc-dims="1" /> <figcaption>À l&#8217;abordage moussaillon !</figcaption> </figure>
-</div>
+![](https://i0.wp.com/i.imgur.com/Nhdu7AR.jpg?resize=580%2C580&#038;ssl=1)
+_À l&#8217;abordage moussaillon !_

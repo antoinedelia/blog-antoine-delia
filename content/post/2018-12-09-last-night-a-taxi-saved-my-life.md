@@ -26,9 +26,8 @@ Pas grand monde à l&#8217;intérieur, mais cela ne nous dérangeait pas, nous �
 
 La soirée continua en douceur. Au bar numéro 7, un guitariste jouait quelques morceaux irlandais dans un bar où il n&#8217;y avait pratiquement personne. Je décidai de l&#8217;encourager en applaudissement à la fin de chaque chanson. Au moment de partir, je devais immortaliser notre rencontre, et pris un selfie avec ce chanteur qui je l&#8217;espère joue désormais devant un public plus volumineux qu&#8217;à l&#8217;époque.
 
-<div class="wp-block-image">
-  <figure class="aligncenter"><img src="https://i0.wp.com/i.imgur.com/MyLztfb.jpg?w=1000&#038;ssl=1" alt="Antoine Delia et un chanteur irlandais" data-recalc-dims="1" /><figcaption>Si vous vous posez la question, oui, j&#8217;ai toujours ce pull dans mes placards</figcaption></figure>
-</div>
+![Antoine Delia et un chanteur irlandais](https://i0.wp.com/i.imgur.com/MyLztfb.jpg?w=1000&#038;ssl=1)
+_Si vous vous posez la question, oui, j&#8217;ai toujours ce pull dans mes placards_
 
 Les pubs s’enchaînèrent et **je commençai à sentir les effets de l&#8217;alcool dans mon sang**. Ma vue se troublait, ma démarche tanguait légèrement et je devenais l&#8217;ami de n&#8217;importe qui.
 
@@ -52,9 +51,8 @@ Alors que je réfléchissais à haute voix au meilleur moyen de dormir, une éni
 
 **Mais elle s&#8217;arrêta à mon niveau, et la vitre du conducteur se baissa.**
 
-<div class="wp-block-image">
-  <figure class="aligncenter"><img src="https://i0.wp.com/i.imgur.com/rv08ejz.jpg?w=1000&#038;ssl=1" alt="Taxi" data-recalc-dims="1" /><figcaption>Quel sort me réserverait ce taxi ?</figcaption></figure>
-</div>
+![Taxi](https://i0.wp.com/i.imgur.com/rv08ejz.jpg?w=1000&#038;ssl=1)
+_Quel sort me réserverait ce taxi ?_
 
 — Vous allez où ? me fit-il.  
 — Désolé, mais je n&#8217;ai pas d&#8217;argent sur moi, je n&#8217;ai que ma carte.  

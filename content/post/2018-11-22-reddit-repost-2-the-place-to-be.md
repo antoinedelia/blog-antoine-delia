@@ -23,9 +23,9 @@ Mais cette petite blague ne fut pas la meilleure, et aujourd&#8217;hui, je vais 
 
 Le 1er avril 2017, les administrateurs de Reddit ont annoncé un site web où il était possible de colorier, pixel par pixel, une toile de 1000 pixels par 1000 pixels. Toutefois, à chaque fois que vous peigniez une case, vous deviez attendre une minute avant de pouvoir en colorier une autre. L&#8217;expérience se nommait &#8220;Place&#8221; et a duré 72 heures, soit trois jours.
 
-Sur ce principe tout simple, les utilisateurs ont commencé à dessiner des objets, des drapeaux, des logos. Évidemment, il était impossible d&#8217;y arriver seul, cela se terminerait en gribouillage de tous les côtés. Ainsi, de nombreuses communautés sur le site se sont serré les coudes et se sont coordonnées pour peindre au mieux différentes choses. Mais une image vaut mieux qu&#8217;un long discours, et je vous laisse donc avec l&#8217;oeuvre final.<figure class="wp-block-image">
+Sur ce principe tout simple, les utilisateurs ont commencé à dessiner des objets, des drapeaux, des logos. Évidemment, il était impossible d&#8217;y arriver seul, cela se terminerait en gribouillage de tous les côtés. Ainsi, de nombreuses communautés sur le site se sont serré les coudes et se sont coordonnées pour peindre au mieux différentes choses. Mais une image vaut mieux qu&#8217;un long discours, et je vous laisse donc avec l&#8217;oeuvre final.
 
-<img src="https://i0.wp.com/i.redd.it/o4oku48qk9py.png?w=1000&#038;ssl=1" alt="Place, the final result" data-recalc-dims="1" /> </figure> 
+![Place, the final result](https://i0.wp.com/i.redd.it/o4oku48qk9py.png?w=1000&#038;ssl=1)
 
 Si vous zoomez sur l&#8217;image, vous vous rendrez compte à quel point elle est immense. Il paraît inhumain de se dire que tout cela a été réalisé par des millions d&#8217;utilisateurs différents tant le résultat final est impressionnant.
 
@@ -33,11 +33,9 @@ En effet, vous en avez pour tous les goûts ! Il y a des drapeaux de pays, des i
 
 Si vous souhaitez vous amuser à farfouiller dans cette image et découvrir toutes les références qui la composent, je vous invite à vous rendre sur [ce site qui décortique chaque élément de l&#8217;image][2].
 
-Et ce qui est encore plus beau à regarder, c&#8217;est la construction de ce tableau. Par chance aujourd&#8217;hui avec internet tout est possible, et vous avez ci-dessous le timelapse de la création de cette oeuvre d&#8217;art à part entière.<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio">
+Et ce qui est encore plus beau à regarder, c&#8217;est la construction de ce tableau. Par chance aujourd&#8217;hui avec internet tout est possible, et vous avez ci-dessous le timelapse de la création de cette oeuvre d&#8217;art à part entière.
 
-<div class="wp-block-embed__wrapper">
-  <span class="embed-youtube" style="text-align:center; display: block;"></span>
-</div></figure> 
+[![South Park](https://img.youtube.com/vi/XnRCZK3KjUY/0.jpg)](https://www.youtube.com/watch?v=XnRCZK3KjUY)
 
 Toutefois, il faut bien rendre à César ce qui est à César, car cette idée n&#8217;est pas tout à fait à 100% originale.
 

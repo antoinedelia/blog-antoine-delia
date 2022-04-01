@@ -10,7 +10,7 @@ categories: [ Sur le web ]
 ---
 On nous dit souvent que le dauphin est considéré comme [un des mammifères les plus intelligents][1]. Mais qu&#8217;en savons-nous réellement ? L&#8217;autre jour je suis tombé sur un article qui pourra vous montrer j&#8217;en suis sur à quel point nos amis les dauphins sont plus malins qu&#8217;on ne l&#8217;imagine.
 
-<img loading="lazy" class="aligncenter" src="https://i0.wp.com/www.club-panda.fr/wp-content/uploads/2014/06/dauphin_homme-et-dauphin.jpg?resize=549%2C246" width="549" height="246" data-recalc-dims="1" /> 
+![Dauphin](https://i0.wp.com/www.club-panda.fr/wp-content/uploads/2014/06/dauphin_homme-et-dauphin.jpg?resize=549%2C246)
 
 Laissez-moi vous raconter l&#8217;histoire de **Kelly**. A l&#8217;Institut d&#8217;études sur les mammifères marins dans le Mississippi aux États-Unis, les dauphins sont entraînés à garder des détritus tombés dans leur piscine jusqu&#8217;à ce qu&#8217;ils voient un dresseur. **Ils échangent alors le déchet contre du poisson**. De cette manière, les dauphins aident à garder la piscine propre.
 

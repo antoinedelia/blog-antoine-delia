@@ -16,13 +16,15 @@ Dans cette dernière partie, je vais vous décrire **les différents postes** qu
 
 C&#8217;est l&#8217;un des premiers postes que vous allez tenir lorsque vous débutez. Cela n&#8217;a vraiment rien de sorcier, vous êtes en salle et vous devez vous occuper de la propreté. Astiquer les tables, passer le balai, nettoyer les toilettes et changer les poubelles seront vos tâches récurrentes à effectuer en boucle. En soi c&#8217;est un exercice **assez simple mais très répétitif**. Il faut aussi ne pas avoir peur de se salir les mains. Lorsqu&#8217;il y a peu d&#8217;équipiers, vous êtes aussi chargés d&#8217;apporter les plateaux aux clients (service à table). Là aussi rien de bien compliqué, vous prenez le plateau, regardez le numéro du ticket et partez à la recherche du client. C&#8217;est assez amusant si on le tourne comme un jeu : **il faut voir ça comme une aventure où le client représente le trésor**. Un Happy-Meal sur le plateau ? On peut donc se concentrer à chercher des familles. Une salade à la place des frites ? Très probablement une demoiselle qui fait attention à sa ligne (conseil : ne pas aller au McDonald&#8217;s si on veut faire attention à sa ligne).
 
-<figure style="width: 724px" class="wp-caption aligncenter"><img loading="lazy" src="https://i0.wp.com/i.imgur.com/sUISRxg.png?resize=724%2C450&#038;ssl=1" alt="Antoine Delia balayeur" width="724" height="450" data-recalc-dims="1" /><figcaption class="wp-caption-text">_Le lobby c&#8217;est toute ma vie_</figcaption></figure>
+![Antoine Delia balayeur](https://i0.wp.com/i.imgur.com/sUISRxg.png?resize=724%2C450&#038;ssl=1)
+_Le lobby c&#8217;est toute ma vie_
 
   * **La plonge**
 
 Surement le poste que je déteste le plus. Le soir, tous les ustensiles sont envoyés derrière pour être nettoyés avant d&#8217;être replacés pour le lendemain. On dispose d&#8217;une machine à laver et d&#8217;un jet d&#8217;eau pressurisé qui envoie de l&#8217;eau chaude pour repasser sur ce qui ne passe pas dans la machine. Facile me direz-vous, **c&#8217;est comme faire la vaisselle**. Laissez-moi vous présenter la plonge sous un autre angle. La plupart des ustensiles sont envoyés tard, environ une heure avant la fermeture définitive du restaurant. Et cela représente un bon nombre de choses à laver. Il faut donc bien veiller à remplir au maximum la machine avant de la lancer. J&#8217;ai beau avoir de très bons scores sur Tetris, je n&#8217;arrive jamais à caler autant de choses que mes coéquipiers. Vous vous rappelez du jet d&#8217;eau chaude dont je vous ai parlé plus haut ? Et bien sachez qu&#8217;il n&#8217;envoie pas de l&#8217;eau tiède, ni chaude mais de **l&#8217;eau brûlante** et que vous n&#8217;avez pas de gants pour vous protéger. Tout le monde s&#8217;est soi-disant habitué aux brûlures. Il m&#8217;est arrivé de devoir attendre que l&#8217;eau refroidisse avant de poursuivre le lavage tellement mes doigts hurlaient de douleur. Encore une perte de temps. Ah et je porte aussi des lunettes ce qui fait qu&#8217;avec la buée je ne vois souvent pas grand-chose. Bref vous l&#8217;avez compris je déteste ce poste. **Vraiment**. Je le hais. **Plus jamais**.
 
-<figure style="width: 741px" class="wp-caption aligncenter"><img loading="lazy" src="https://i0.wp.com/i.imgur.com/GdHJ8nZ.png?resize=741%2C552&#038;ssl=1" alt="Antoine Delia plonge" width="741" height="552" data-recalc-dims="1" /><figcaption class="wp-caption-text">_Nage droit devant toi_</figcaption></figure>
+![Antoine Delia plonge](https://i0.wp.com/i.imgur.com/GdHJ8nZ.png?resize=741%2C552&#038;ssl=1)
+_Nage droit devant toi_
 
   * **Le comptoir**
 
@@ -54,19 +56,22 @@ C&#8217;est ici que nous préparons les commandes des clients qui ont payé en b
 
 Comme vous le voyez, il y a différents postes au comptoir qui, au final, sont plus ou moins similaires. En fonction du monde, vous êtes soit seul, soit deux pour préparer une commande, l&#8217;un s&#8217;occupant de préparer le **froid** (boissons, desserts&#8230;) et l&#8217;autre le **chaud** (sandwichs, frites). Il faut aussi faire attention aux **retours des clients** : un sandwich trop froid, des frites pas assez salées, une glace à récupérer&#8230;
 
-<figure style="width: 772px" class="wp-caption aligncenter"><img loading="lazy" src="https://i0.wp.com/i.imgur.com/v1IoiTZ.png?resize=772%2C543&#038;ssl=1" alt="Antoine Delia comptoir" width="772" height="543" data-recalc-dims="1" /><figcaption class="wp-caption-text">_McDonald&#8217;s un jour, McDonald&#8217;s toujours_</figcaption></figure>
+![Antoine Delia comptoir](https://i0.wp.com/i.imgur.com/v1IoiTZ.png?resize=772%2C543&#038;ssl=1)
+_McDonald&#8217;s un jour, McDonald&#8217;s toujours_
 
   * **Les frites**
 
 Le poste qui est selon certains **le plus dur à gérer** tant il faut être rapide et précis. Votre seule mission : **préparer des frites et des potatoes**. Il faut d&#8217;abord plonger des panières dans une cuve afin de les cuire. Ensuite on les sort et on les met dans un endroit spécial les tenant au chaud. Il faut ensuite les mettre dans des sachets, soit petits, soit moyens, soit grands. Cela paraît simple à vue d’œil mais il faut toujours prévoir un stock suffisant car les frites partent très, très, TRÈS vite. Et en sachant qu&#8217;il faut **trois minutes** à une panière pour cuire les frites, il faut toujours prévoir à l&#8217;avance. Dernière remarque, **il fait chaud**. Vous êtes constamment près des cuves pour chauffer les frites et vous ne manquerez pas de prendre un coup de soleil sous peu.
 
-<figure style="width: 640px" class="wp-caption aligncenter"><img loading="lazy" src="https://i0.wp.com/i.imgur.com/laCX543.png?resize=640%2C468&#038;ssl=1" alt="Antoine Delia frites" width="640" height="468" data-recalc-dims="1" /><figcaption class="wp-caption-text">_J&#8217;ai la frite_</figcaption></figure>
+![Antoine Delia frites](https://i0.wp.com/i.imgur.com/laCX543.png?resize=640%2C468&#038;ssl=1)
+_J&#8217;ai la frite_
 
   * **Le drive**
 
 Nous finissons en beauté avec **mon poste préféré**. Vous êtes équipé d&#8217;un casque où vous pouvez parler avec les deux lignes du drive (pas en même temps bien sûr). Dès qu&#8217;une voiture arrive, vous entendez un bip vous indiquant qu&#8217;il y a un client. Il faut alors prendre sa commande. _Petit anecdote : nous avons des caméras qui filment votre tête lorsque vous passez commande et nous vous voyons. Alors attention à la tête que vous faites !_ Ensuite il faut inviter le client à passer au prochain guichet pour l&#8217;encaisser et enfin au dernier guichet pour qu&#8217;il puisse retirer sa commande. Je tiens à le préciser car il m&#8217;est arrivé de voir des gens payer et partir sans leur commande. Je ne saurais pas dire pourquoi j&#8217;aime ce poste. Entre les clients qui demandent des commandes à rallonge, le bruit du micro qui rend la voix des personnes inaudibles et le bruit permanent des bips dans le casque, on pourrait trouver cela énervant. Mais bizarrement cela ne me gêne pas. Je pense que cela rend la tâche **moins répétitive et banale**, ce qui est la hantise de tout travailleur McDonald&#8217;s.
 
-<figure style="width: 765px" class="wp-caption aligncenter"><img loading="lazy" src="https://i0.wp.com/i.imgur.com/eDRolhm.png?resize=765%2C408&#038;ssl=1" alt="Antoine Delia drive" width="765" height="408" data-recalc-dims="1" /><figcaption class="wp-caption-text">_Même le Drive de Ryan Gosling n&#8217;est pas aussi bon_</figcaption></figure>
+![Antoine Delia drive](https://i0.wp.com/i.imgur.com/eDRolhm.png?resize=765%2C408&#038;ssl=1)
+_Même le Drive de Ryan Gosling n&#8217;est pas aussi bon_
 
 Vous connaissez maintenant tous les postes que j&#8217;ai exercés pendant mon travail au McDonald&#8217;s. J&#8217;ai également pu me familiariser un peu avec le **McCafé** en faisant un expresso et un ristretto. Je suis aussi allé en cuisine afin de **cuisiner mon propre Big-Mac !** Je suis content de pouvoir dire que j&#8217;ai fait autant de choses.
 

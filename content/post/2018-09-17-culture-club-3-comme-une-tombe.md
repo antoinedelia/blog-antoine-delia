@@ -13,9 +13,8 @@ Il est temps de reprendre cette série d&#8217;articles ! Aujourd&#8217;hui dans
 
 Sorti en 2005, _Comme une tombe_ est un livre de l&#8217;américain Peter James qui, avant de devenir écrivain, travaillait comme scénariste et producteur pour le cinéma. Et ça se sent. Chaque page que vous tournerez vous donnera un peu plus envie de connaître la fin. Mais reprenons dans l&#8217;ordre : de quoi parle ce livre ?
 
-<div class="wp-block-image">
-  <figure class="aligncenter"><img src="https://i0.wp.com/i.imgur.com/HbFJxPp.jpg?w=1000&#038;ssl=1" alt="Peter James - Comme une tombe" data-recalc-dims="1" /></figure>
-</div>
+![Peter James - Comme une tombe](https://i0.wp.com/i.imgur.com/HbFJxPp.jpg?w=1000&#038;ssl=1)
+
 
 _Comme une tombe_ raconte l&#8217;histoire de Michael Harrison, jeune promoteur immobilier de 25 ans pour qui tout réussit. Grand, beau et intelligent, il a monté sa boîte avec Mark son meilleur ami et les affaires marchent à merveille. À ses côtés, il est épaulé par la ravissante Ashley, avec qui il prévoit de se marier d&#8217;ici quelques jours. Oui, tout allait bien dans la vie de Michael Harrrison. Jusqu&#8217;au jour où **il se réveille six pieds sous terre dans un cercueil**, entouré d&#8217;une bouteille de whisky, d&#8217;une lampe de poche et d&#8217;un talkie-walkie. Il se rappelle alors la soirée de la veille.
 
@@ -23,10 +22,8 @@ Pour fêter son enterrement de vie de garçon, ses amis avaient décidé de lui 
 
 Rien qu&#8217;en écrivant ces lignes, j&#8217;en ai encore des frissons. Que feriez-vous si vous vous retrouviez à sa place ? Êtes-vous plutôt du genre Kill Bill à détruire le cercueil de vos propres mains ? Ou vous laisseriez-vous mourir, sans aucun espoir ?
 
-<div class="wp-block-image">
-  <figure class="aligncenter"><img src="https://i0.wp.com/img00.deviantart.net/4b0c/i/2012/134/e/5/the_lonely_grave_of_paula_schultz_by_yannickbouchard-d4zrzx6.jpg?w=1000&#038;ssl=1" alt="Kill Bill 2 dans un cercueil" data-recalc-dims="1" /><figcaption>Sous terre, personne ne vous entend crier</figcaption></figure>
-</div>
-
+![Kill Bill 2 dans un cercueil](https://i0.wp.com/img00.deviantart.net/4b0c/i/2012/134/e/5/the_lonely_grave_of_paula_schultz_by_yannickbouchard-d4zrzx6.jpg?w=1000&#038;ssl=1)
+_Sous terre, personne ne vous entend crier_
 
 
 Quoi qu&#8217;il en soit, _Comme une tombe_ est un livre qui vous tient en haleine à chaque chapitre. Plus vous avancez dans l&#8217;histoire, et plus vous obtenez les pièces du puzzle permettant de retrouver Michael. Les chapitres alternent entre le récit du jeune homme prisonnier sous terre, celui de sa fiancée qui espère à tout prix qu&#8217;il réapparaîtra pour le mariage, et celui de Roy Grace, l&#8217;inspecteur de police chargé de l&#8217;enquête qui n&#8217;aura que très peu de témoins à interroger pour délier ce mystère.

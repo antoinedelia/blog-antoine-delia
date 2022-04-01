@@ -20,13 +20,14 @@ Et pourtant, je me suis mis à réfléchir à une stratégie qui m&#8217;est app
 
 C&#8217;est donc rempli d&#8217;espoir, mais aussi de doutes, que je foulais le sol du Casino Barrière de Toulouse dimanche dernier.
 
-<img loading="lazy" class="aligncenter" src="https://i0.wp.com/cdt31.media.tourinsoft.eu/upload/-David-0114-26-CAS-TOU-mod.jpg?resize=1000%2C669&#038;ssl=1" alt="Le Casino Barrière de Toulouse" width="1000" height="669" data-recalc-dims="1" /> 
+![Le Casino Barrière de Toulouse](https://i0.wp.com/cdt31.media.tourinsoft.eu/upload/-David-0114-26-CAS-TOU-mod.jpg?resize=1000%2C669&#038;ssl=1)
 
 Après avoir présenté ma pièce d&#8217;identité pour prouver que je n&#8217;étais ni mineur ni interdit de jeux, j&#8217;entrai dans ce lieu merveilleux, où toutes les machines illuminaient la salle, et s&#8217;accompagnaient de sons tous plus addictifs les uns que les autres. Je passai devant ces machines à sous où s&#8217;attroupait une brochette de personnes du troisième âge qui pressait nonchalamment le même bouton pour retenter leur chance. Qu&#8217;ils gagnent ou qu&#8217;ils perdent, leur expression ne changeait guère. Je pris enfin l&#8217;escalator pour me rendre à l&#8217;étage inférieur où se trouvait le jeu qui m&#8217;intéressait : **la roulette**.
 
 Assis devant une roulette électronique, je commençai par insérer un billet de 5€. Sur cette borne, la mise minimale de 0,50€ me conforta dans l&#8217;idée que j&#8217;aurais de quoi jouer pour un certain temps. Je posai ensuite un de mes jetons virtuels sur le rouge et en avant la musique&#8230;
 
-<figure style="width: 900px" class="wp-caption aligncenter"><img loading="lazy" src="https://i0.wp.com/i.imgur.com/iYlCqpA.jpg?resize=900%2C364&#038;ssl=1" alt="Antoine Delia ramassant le pactole" width="900" height="364" data-recalc-dims="1" /><figcaption class="wp-caption-text">_Je m&#8217;y voyais déjà_</figcaption></figure>
+![Antoine Delia ramassant le pactole](https://i0.wp.com/i.imgur.com/iYlCqpA.jpg?resize=900%2C364&#038;ssl=1)
+_Je m&#8217;y voyais déjà_
 
 * * *
 
@@ -68,7 +69,8 @@ Ainsi, perdre 5 parties consécutives correspond à **(19/37)^5 = 3,5% de chance
 
 Avouez tout de même que cela reste plutôt élevé, surtout quand nous allons répéter l&#8217;expérience une centaine de fois ! Gardez en tête que, bien que cela soit peu probable, une série importante de défaites peut et, au bout du compte, doit arriver. Et si vous voulez vous donner des frayeurs, regardez ce qui peut se produire.
 
-<figure style="width: 378px" class="wp-caption aligncenter"><img loading="lazy" src="https://i0.wp.com/i.imgur.com/xU44DL8.jpg?resize=378%2C504&#038;ssl=1" alt="13 chiffres rouges d'affilés à la roulette" width="378" height="504" data-recalc-dims="1" /><figcaption class="wp-caption-text">_13 chiffres rouges d&#8217;affilés, soit 8192€ à mettre en jeu (en partant de 1€ comme mise de départ)_</figcaption></figure>
+![13 chiffres rouges d'affilés à la roulette](https://i0.wp.com/i.imgur.com/xU44DL8.jpg?resize=378%2C504&#038;ssl=1)
+_13 chiffres rouges d&#8217;affilés, soit 8192€ à mettre en jeu (en partant de 1€ comme mise de départ)_
 
 Une fois de plus, je vous vois venir : &#8220;_Et si jamais je disposais hypothétiquement de fonds illimités ?_&#8221; Pour commencer, je ne vois pas l&#8217;intérêt d&#8217;utiliser cette technique pour gagner de l&#8217;argent si vous êtes déjà riches ! Et d&#8217;autre part, là aussi vous serez confrontés à un problème.
 
@@ -76,7 +78,8 @@ Une fois de plus, je vous vois venir : &#8220;_Et si jamais je disposais hypoth�
 
 En effet, la plupart des casinos (bien conscients de la méthode de la martingale) ne se sont pas privés pour contrecarrer cette astuce. Pour cela, rien de plus simple : **fixer une mise maximum**. Ainsi, au bout de X séries de défaites, vous ne pourrez plus miser le double de la mise précédente puisque le casino vous l&#8217;interdit. Cela rend vos chances de tout perdre encore plus importantes.
 
-<figure style="width: 960px" class="wp-caption aligncenter"><img loading="lazy" src="https://i0.wp.com/i.imgur.com/A4Hr92O.jpg?resize=960%2C540&#038;ssl=1" alt="Antoine Delia assis à une table de roulette" width="960" height="540" data-recalc-dims="1" /><figcaption class="wp-caption-text">_La défaite n&#8217;est jamais très loin_</figcaption></figure>
+![Antoine Delia assis à une table de roulette](https://i0.wp.com/i.imgur.com/A4Hr92O.jpg?resize=960%2C540&#038;ssl=1)
+_La défaite n&#8217;est jamais très loin_
 
 * * *
 

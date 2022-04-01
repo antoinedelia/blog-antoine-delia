@@ -21,11 +21,10 @@ J&#8217;ai conscience d&#8217;avoir un fort penchant pour la musique électroniq
 
 Commençons par un artiste qui a sorti il y a quelques semaines son tout premier album : **Said The Sky**. Du haut de ses 25 ans, il nous propose déjà un album rempli de petites pépites (à se demander ce que je serai capable de faire lorsque je fêterai mon 25ème anniversaire).
 
-Son style de musique est assez aérien, et je pense que l&#8217;écouter dans un hamac au bord de l&#8217;océan serait optimal pour profiter de ces mélodies. D&#8217;ailleurs, sur sa page officielle, il n&#8217;a comme unique description : &#8220;A sound from the clouds&#8221; traduit &#8220;**Un son venant des nuages**&#8221; c&#8217;est vous dire si avec ça vous allez vous envoler. Je vous propose ma chanson favorite de cet album, mais si vous l&#8217;aimez, je vous encourage fortement à écouter le reste de ses chansons.<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube"> 
+Son style de musique est assez aérien, et je pense que l&#8217;écouter dans un hamac au bord de l&#8217;océan serait optimal pour profiter de ces mélodies. D&#8217;ailleurs, sur sa page officielle, il n&#8217;a comme unique description : &#8220;A sound from the clouds&#8221; traduit &#8220;**Un son venant des nuages**&#8221; c&#8217;est vous dire si avec ça vous allez vous envoler. Je vous propose ma chanson favorite de cet album, mais si vous l&#8217;aimez, je vous encourage fortement à écouter le reste de ses chansons.
 
-<span class="embed-youtube" style="text-align:center; display: block;"></span> <figcaption>Said The Sky &#8211; Erase Me</figcaption></figure> 
-
-
+[![Said The Sky &#8211; Erase Me](https://img.youtube.com/vi/wWFkdOGLyEc/0.jpg)](https://www.youtube.com/watch?v=wWFkdOGLyEc)
+_Said The Sky &#8211; Erase Me_
 
 Passons à un vieux de la musique, puisque le prochain artiste a 27 ans. **San Holo** (à ne pas confondre avec le terrible film Han Solo) est un artiste néerlandais qui a sorti il y a une semaine deux chansons à paraître dans son futur album.
 
@@ -39,9 +38,8 @@ L&#8217;une d&#8217;elles m&#8217;a particulièrement marqué, car elle mélange
   <cite>San Holo sur son premier single &#8220;worthy&#8221; (<a href="https://soundcloud.com/sanholobeats/worthy">Source</a>)</cite>
 </blockquote>
 
-<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube"> 
-
-<span class="embed-youtube" style="text-align:center; display: block;"></span> <figcaption>San Holo &#8211; worthy</figcaption></figure> 
+[![San Holo &#8211; worthy](https://img.youtube.com/vi/zmeYeAgXpqc/0.jpg)](https://www.youtube.com/watch?v=zmeYeAgXpqc)
+_San Holo &#8211; worthy_
 
 Pour conclure ce premier numéro de Music Mania, j&#8217;aimerais parler d&#8217;une chose avec vous. Qu&#8217;est-ce que la musique ? Un moyen de chanter, de danser ou encore de s&#8217;évader. Mais **qu&#8217;est-ce qui pousse des artistes à écrire des chansons ?** La notoriété ? Ou tout simplement l&#8217;argent ? Pour ma part, je considère que **les meilleures chansons sont celles qui sont écrites dans le but de raconter une histoire** ou de parler d&#8217;un sujet personnel à l&#8217;artiste. Ce genre de chansons ont un sens, et même une véritable âme. Elles existent dans un but précis et c&#8217;est ce qui leur donne leur intérêt.
 
@@ -59,11 +57,10 @@ C&#8217;est ce qui m&#8217;amène vers la dernière chanson que j&#8217;ai à vo
   <cite>Illenium sur son addiction et la signification de sa chanson &#8220;Take You Down&#8221; (<a href="https://twitter.com/ILLENIUMMUSIC/status/1024375729683804160">Source</a>)</cite>
 </blockquote>
 
-On peut ainsi voir que cette chanson a une réelle histoire derrière elle et qu&#8217;elle n&#8217;est pas composée dans le seul but d&#8217;ajouter une nouvelle chanson à sa discographie. Elle représente quelque chose pour lui et il espère que son message se propage au plus grand nombre. Cela donne, en quelque sorte, vie à cette chanson. De plus, en connaissant le contexte, les paroles n&#8217;en deviennent que plus belles et touchantes.<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube"> 
+On peut ainsi voir que cette chanson a une réelle histoire derrière elle et qu&#8217;elle n&#8217;est pas composée dans le seul but d&#8217;ajouter une nouvelle chanson à sa discographie. Elle représente quelque chose pour lui et il espère que son message se propage au plus grand nombre. Cela donne, en quelque sorte, vie à cette chanson. De plus, en connaissant le contexte, les paroles n&#8217;en deviennent que plus belles et touchantes.
 
-<span class="embed-youtube" style="text-align:center; display: block;"></span> <figcaption>Illenium &#8211; Take You Down</figcaption></figure> 
-
-
+[![Illenium &#8211; Take You Down](https://img.youtube.com/vi/zmeYeAgXpqc/0.jpg)](https://www.youtube.com/watch?v=zmeYeAgXpqc)
+_Illenium &#8211; Take You Down_
 
 J&#8217;espère que ce numéro vous aura plu et que vous aimez avoir quelques informations derrière chaque musique comme je l&#8217;ai fait pour cette fois-ci. Continuez d&#8217;écouter de la musique, et rendez-vous pour un prochain épisode de Music Mania !
 

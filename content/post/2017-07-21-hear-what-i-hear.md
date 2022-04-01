@@ -17,7 +17,8 @@ Mais qu&#8217;est-ce qui fait qu&#8217;une musique est plaisante à écouter ? P
 
 Comme beaucoup j&#8217;ai adoré ce titre et ne connaissant pas Porter Robinson, j&#8217;ai décidé d&#8217;écouter son album &#8220;**Worlds**&#8221; pour me faire une idée. **C&#8217;était le coup de foudre dès la première écoute.** Son style peu commun m&#8217;a fait planer, comme si j&#8217;étais allongé sur un nuage. Sa musique me procure à chaque écoute, une floppée d&#8217;émotions dont je ne me lasse pas. Vous connaissez ça, quand vous écoutez une chanson tellement belle et tellement puissante au niveau des instruments et des paroles que vous en avez des frissons. Il suffit que je ferme les yeux pour me laisser transporter et me voilà parti dans un voyage musical exceptionnel.
 
-<figure style="width: 620px" class="wp-caption aligncenter"><img loading="lazy" src="https://i0.wp.com/greenarea.me/wp-content/uploads/2016/01/goosebumps_2443265b.jpg?resize=620%2C387" alt="frissons" width="620" height="387" data-recalc-dims="1" /><figcaption class="wp-caption-text">_Frissons garantis_</figcaption></figure>
+![frissons](https://i0.wp.com/greenarea.me/wp-content/uploads/2016/01/goosebumps_2443265b.jpg?resize=620%2C387)
+_Frissons garantis_
 
 Je ne pouvais pas m&#8217;arrêter en si bon chemin. Je me suis alors mis à écouter ses performances en live lors de divers festivals. Et je n&#8217;ai toujours pas compris comment Porter a réussi à produire un set encore plus fou que son album. Il mélange les chansons entre elles, créant ainsi une toute autre histoire, faisant passer une toute autre émotion à celui qui l&#8217;écoute. Je suis devenu accro à ses performances, si bien qu&#8217;**il n&#8217;y a pas un jour sans que j&#8217;écoute une de ses musiques**.
 

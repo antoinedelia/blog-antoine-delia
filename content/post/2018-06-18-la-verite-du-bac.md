@@ -15,7 +15,7 @@ Me voilà donc en train de lire les sujets lorsque l&#8217;un d&#8217;eux m’in
 
 Tout d&#8217;abord, je pense qu&#8217;il est important de définir ce qu&#8217;est une vérité. On pourrait tout simplement penser qu&#8217;une vérité, c&#8217;est quelque chose qui est vrai, qui n&#8217;est pas faux (wow, merci Sherlock). Si l&#8217;on s&#8217;appuie sur [la définition du Larousse][1], nous obtenons une définition des plus intéressantes : &#8220;**Adéquation entre la réalité et l&#8217;homme qui la pense**&#8220;. Cela rajoute un élément pertinent à la question principale. Ici, on ne parle pas seulement du fait qui peut être vrai ou faux, mais également de la vision que s&#8217;en fait une personne face à ce fait. Prenez cet exemple.
 
-<img class="aligncenter" src="https://i0.wp.com/i.imgur.com/2QIWpU6.png?w=1000&#038;ssl=1" data-recalc-dims="1" /> 
+![](https://i0.wp.com/i.imgur.com/2QIWpU6.png?w=1000&#038;ssl=1) data-recalc-dims="1" /> 
 
 Sur cette image, on peut voir que, selon notre point de vue, un objet peut nous apparaître sous forme cubique ou sphérique. Si deux personnes regardaient chacun d&#8217;un côté et qu&#8217;on leur demandait ce que représente l&#8217;objet, elles auraient toutes deux raisons. Dans ce cas, quelle est la vérité ? Ici, on peut voir qu&#8217;en fait, la réalité est quelque chose de plus global, de plus ouvert, et que selon la manière d&#8217;aborder les choses, on ne pourrait pas totalement voir l&#8217;intégralité d&#8217;une vérité.
 
@@ -23,7 +23,7 @@ Ce fut notamment le cas au fil de l&#8217;Histoire où à une certaine époque, 
 
 Reprenons l&#8217;exemple précédent. Imaginez que nous soyons dans la situation où nous voyons les deux faces de cet objet. Nous pensons connaître la vérité. Mais si je vous disais que la vérité est incomplète ? Regardez maintenant le dessin ci-dessous.
 
-<img class="aligncenter" src="https://i0.wp.com/i.imgur.com/lXztoiK.png?w=1000&#038;ssl=1" data-recalc-dims="1" /> 
+![](https://i0.wp.com/i.imgur.com/lXztoiK.png?w=1000&#038;ssl=1) data-recalc-dims="1" /> 
 
 Il y avait en réalité une troisième partie que nous ne connaissions pas et qui permet maintenant d&#8217;avoir une vraie vision d&#8217;ensemble sur la réalité. Toutefois, et si cette nouvelle vision était encore incomplète ? Impossible de le savoir. Il est donc impossible d&#8217;être certain d&#8217;une vérité.
 

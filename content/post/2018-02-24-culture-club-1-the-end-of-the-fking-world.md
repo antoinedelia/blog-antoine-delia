@@ -13,13 +13,13 @@ categories: [ Culture Club ]
 
 Dans ce premier épisode de Culture Club, nous allons parler d&#8217;une série télé qui est sortie il y a quelques semaines seulement sur Netflix et qui provoque déjà un raz-de-marée de critiques positives. Je viens tout juste de la terminer et je voulais partager avec vous mes impressions sur celle-ci.
 
-<img loading="lazy" class="aligncenter" src="https://i1.wp.com/larsruby.com/wp-content/uploads/2018/01/the-end-of-the-fucking-world.jpg?resize=1170%2C550&ssl=1" alt="Résultat de recherche d'images pour &quot;the end of the f ** king world&quot;" width="1170" height="550" /> 
+![Résultat de recherche d'images pour &quot;the end of the f ** king world&quot;](https://i1.wp.com/larsruby.com/wp-content/uploads/2018/01/the-end-of-the-fucking-world.jpg?resize=1170%2C550&ssl=1)
 
 Le pitch de &#8220;**THE END OF THE F**KING WORLD**&#8221; se résume assez simplement. Vous avez James, un adolescent de 17 ans qui vit seul avec son père et qui a développé des tendances psychopathes de par sa solitude. Assis à la cantine de son lycée, des idées de meurtres lui viennent en tête, regardant un à un les autres élèves pour choisir une victime idéale.
 
 C&#8217;est alors que Alyssa, une nouvelle élève du lycée, vient à sa rencontre. Le temps d&#8217;échanger quelques mots et James se dit qu&#8217;elle ferait la victime parfaite. Alors pour mieux étudier sa proie, il fait semblant de tomber amoureux d&#8217;elle. Ils vont alors apprendre à se connaître et découvrir que, malgré leur tempérament diamétralement opposé, ils partagent certaines douleurs familiales. Entre la disparition de la mère de James et le beau-père d&#8217;Alyssa qui la martyrise sans arrêt, le nouveau couple décide de mettre les voiles et de partir loin de cette ville qui ne leur a apporté que des ennuis. Nous suivons alors le voyage de ces deux adolescents et comment leur personnalité va évoluer en compagnie de l&#8217;autre.
 
-<img class="aligncenter" src="https://i0.wp.com/i1.fdbimg.pl/637tgnx1/2000x1125_p2orsh.jpg?w=1000&#038;ssl=1" alt="Résultat de recherche d'images pour &quot;end of the f *** ing world&quot;" data-recalc-dims="1" /> 
+![Résultat de recherche d'images pour &quot;end of the f *** ing world&quot;](https://i0.wp.com/i1.fdbimg.pl/637tgnx1/2000x1125_p2orsh.jpg?w=1000&#038;ssl=1)
 
 Mais pourquoi cette série fait autant parler d&#8217;elle ? Tout d&#8217;abord, les deux personnages principaux jouent avec brio leur rôle d&#8217;adolescents paumés et rebelles, si bien qu&#8217;on peut observer leur changement de personnalité au fil des épisodes et ressentir leurs troubles. Petit aparté pour vous dire que l&#8217;acteur jouant James est également au cœur de l&#8217;épisode _<span class="lang-en" lang="en">Shut Up and Dance</span>_ de l&#8217;excellente série Black Mirror où il joue également à merveille.
 

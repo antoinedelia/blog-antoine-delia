@@ -16,7 +16,8 @@ Quelques jours se sont écoulés entre temps me permettant de digérer tout ce q
 
 Bien entendu, **cet article contiendra énormément de spoilers**, et, si vous n&#8217;avez pas encore regardé le troisième épisode, je vous recommande de le visionner avant de poursuivre la lecture de l&#8217;article. Vous voilà prévenus !
 
-<figure style="width: 3118px" class="wp-caption aligncenter"><img loading="lazy" src="https://i0.wp.com/i.redd.it/wvt66z80vtu21.jpg?resize=1000%2C462&#038;ssl=1" alt="Le Roi de la Nuit sur le Trône de Fer" width="1000" height="462" data-recalc-dims="1" /><figcaption class="wp-caption-text">_Le Roi de la Nuit sur le Trône de Fer_ &#8211; par Houston Sharp</figcaption></figure>
+![Le Roi de la Nuit sur le Trône de Fer](https://i0.wp.com/i.redd.it/wvt66z80vtu21.jpg?resize=1000%2C462&#038;ssl=1)
+_Le Roi de la Nuit sur le Trône de Fer_ &#8211; par Houston Sharp
 
 ## Contexte
 
@@ -84,9 +85,11 @@ Bien que cet épisode présente de nombreux défauts scénaristiques, cela n&#82
 
 Si l&#8217;on oublie les scènes trop sombres, l&#8217;épisode apporte son lot de plans spectaculaires. Je n&#8217;en retiens ici que deux m&#8217;ayant vraiment marqué : l&#8217;attaque d&#8217;un dragon sur l&#8217;armée  des morts et la bataille des dragons au clair de lune.
 
-<figure style="width: 3840px" class="wp-caption aligncenter"><img loading="lazy" src="https://i0.wp.com/i.redd.it/0v5agibp0ev21.jpg?resize=1000%2C563&#038;ssl=1" alt="Le souffle du dragon" width="1000" height="563" data-recalc-dims="1" /><figcaption class="wp-caption-text">_Le souffle du dragon_</figcaption></figure>
+![Le souffle du dragon](https://i0.wp.com/i.redd.it/0v5agibp0ev21.jpg?resize=1000%2C563&#038;ssl=1)
+_Le souffle du dragon_
 
-<figure style="width: 7680px" class="wp-caption aligncenter"><img loading="lazy" src="https://i0.wp.com/i.redd.it/bqpfpiq7y7v21.jpg?resize=1000%2C563&#038;ssl=1" alt="Duel au clair de lune" width="1000" height="563" data-recalc-dims="1" /><figcaption class="wp-caption-text">_Duel au clair de lune_</figcaption></figure>
+![Duel au clair de lune](https://i0.wp.com/i.redd.it/bqpfpiq7y7v21.jpg?resize=1000%2C563&#038;ssl=1)
+_Duel au clair de lune_
 
 Le contraste des couleurs dans la première image et l&#8217;intensité du bleu dans la deuxième est vraiment fascinant. On a là **un véritable jeu de couleurs entre les couleurs chaudes représentant les vivants, et les couleurs froides représentant la mort**. Un magnifique travail du directeur de la photographie, pour le plus grand plaisir des téléspectateurs.
 
@@ -94,8 +97,7 @@ Le contraste des couleurs dans la première image et l&#8217;intensité du bleu 
 
 Ramin Djawadi nous a encore bluffés par son talent dans cet épisode. Compositeur de la bande originale de la série, il avait déjà conquis le public avec des titres comme &#8220;Light of the Seven&#8221;, joué lors du final de la sixième saison. **C&#8217;est aussi à lui qu&#8217;on doit le cultissime générique de la série.** Et on ne peut pas dire qu&#8217;il a déçu dans cet épisode, puisqu&#8217;il nous apporte une musique à couper le souffle présente dans les derniers moments du Roi de la Nuit. Intitulée &#8220;The Night King&#8221;, la musique majoritairement composée au piano donne des frissons autant qu&#8217;elle glace le sang.
 
-<div class="su-youtube su-u-responsive-media-yes">
-</div>
+[![Game of Thrones](https://img.youtube.com/vi/k1frgt0D_f4/0.jpg)](https://www.youtube.com/watch?v=k1frgt0D_f4)
 
 ## Conclusion
 
