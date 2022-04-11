@@ -4,9 +4,10 @@ title = 'Blog - Antoine Delia'
 theme = "hugo-theme-cleanwhite"
 paginate = 5
 preserveTaxonomyNames = true
+googleAnalytics = "UA-57361125-5"
 
 [outputs]
-home = ["HTML", "RSS"]
+home = ["HTML", "RSS", "Algolia"]
 
 [params]
   header_image = "img/bg.jpg"
@@ -26,9 +27,9 @@ home = ["HTML", "RSS"]
 
   # algolia site search
   algolia_search = true
-  algolia_appId = ""
-  algolia_indexName = ""
-  algolia_apiKey = ""
+  algolia_appId = "RFBWY5EIPT"
+  algolia_indexName = "blog"
+  algolia_apiKey = "9529b5850e34bbb2e2be5e1c9d025389"
 
   # Sidebar settings
   sidebar_about_description = ""
@@ -96,7 +97,7 @@ mediaType = "application/json"
 notAlternative = true
 
 [params.algolia]
-vars = ["title", "summary", "date", "publishdate", "expirydate", "permalink"]
+vars = ["title", "content", "summary", "date", "publishdate", "expirydate", "permalink"]
 params = ["categories", "tags"] 
 
 [markup]
