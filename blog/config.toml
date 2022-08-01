@@ -4,7 +4,7 @@ title = 'Blog - Antoine Delia'
 theme = "hugo-theme-cleanwhite"
 paginate = 5
 preserveTaxonomyNames = true
-googleAnalytics = "UA-57361125-5"
+googleAnalytics = "G-VD4VGXMSF2"
 
 [outputs]
 home = ["HTML", "RSS", "Algolia"]
