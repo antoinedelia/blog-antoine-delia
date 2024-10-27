@@ -9,7 +9,7 @@ on:
 jobs:
   build-and-deploy:
     name: 'Build & Deploy'
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     environment:
       name: production
       url: ${{ steps.deployment.outputs.url }}
