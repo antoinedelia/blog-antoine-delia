@@ -10,7 +10,9 @@ jobs:
   build-and-deploy:
     name: 'Build & Deploy'
     runs-on: ubuntu-latest
-    environment: production
+    environment:
+      name: production
+      url: ${{ steps.deployment.outputs.url }}
 
     # Use the Bash shell regardless whether the GitHub Actions runner is ubuntu-latest, macos-latest, or windows-latest
     defaults:
