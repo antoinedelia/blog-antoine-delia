@@ -79,10 +79,15 @@ jobs:
         cache: 'npm'
         cache-dependency-path: '**/package-lock.json'
     - run: npm ci
+      if: steps.filter.outputs.web == 'true'
     - run: npm run build --if-present
+      if: steps.filter.outputs.web == 'true'
     - run: sudo apt-get install hugo
+      if: steps.filter.outputs.web == 'true'
     - run: hugo
+      if: steps.filter.outputs.web == 'true'
     - run: npm run algolia
+      if: steps.filter.outputs.web == 'true'
       env:
         ALGOLIA_APP_ID: ${{ secrets.ALGOLIA_APP_ID }}
         ALGOLIA_ADMIN_KEY: ${{ secrets.ALGOLIA_ADMIN_KEY }}
