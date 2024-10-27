@@ -21,8 +21,8 @@ jobs:
         working-directory: blog
 
     steps:
-    - uses: actions/checkout@v3
-    - uses: dorny/paths-filter@v2
+    - uses: actions/checkout@v4
+    - uses: dorny/paths-filter@v3
       id: filter
       with:
         filters: |
@@ -30,10 +30,12 @@ jobs:
             - 'blog/**'
           terraform:
             - 'terraform/**'
+          actions:
+            - '.github/workflows/**'
 
     # Checkout the repository to the GitHub Actions runner
     - name: Checkout
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4
       
     - name: Update Git Submodules
       working-directory: ./
@@ -41,26 +43,26 @@ jobs:
 
     # Install the latest version of Terraform CLI and configure the Terraform CLI configuration file with a Terraform Cloud user API token
     - name: Setup Terraform
-      if: steps.filter.outputs.terraform == 'true'
-      uses: hashicorp/setup-terraform@v1
+      if: steps.filter.outputs.terraform == 'true' || steps.filter.outputs.actions == 'true'
+      uses: hashicorp/setup-terraform@v3
       with:
         cli_config_credentials_token: ${{ secrets.TF_API_TOKEN }}
 
     # Initialize a new or existing Terraform working directory by creating initial files, loading any remote state, downloading modules, etc.
     - name: Terraform Init
-      if: steps.filter.outputs.terraform == 'true'
+      if: steps.filter.outputs.terraform == 'true' || steps.filter.outputs.actions == 'true'
       working-directory: ./terraform
       run: terraform init
 
     # Checks that all Terraform configuration files adhere to a canonical format
     - name: Terraform Format
-      if: steps.filter.outputs.terraform == 'true'
+      if: steps.filter.outputs.terraform == 'true' || steps.filter.outputs.actions == 'true'
       working-directory: ./terraform
       run: terraform fmt -check
 
     # Generates an execution plan for Terraform
     - name: Terraform Plan
-      if: steps.filter.outputs.terraform == 'true'
+      if: steps.filter.outputs.terraform == 'true' || steps.filter.outputs.actions == 'true'
       working-directory: ./terraform
       run: terraform plan
 
@@ -72,22 +74,22 @@ jobs:
       run: terraform apply -auto-approve
 
     - name: Build
-      uses: actions/setup-node@v2
-      if: steps.filter.outputs.web == 'true'
+      uses: actions/setup-node@v4
+      if: steps.filter.outputs.web == 'true' || steps.filter.outputs.actions == 'true'
       with:
         node-version: '16'
         cache: 'npm'
         cache-dependency-path: '**/package-lock.json'
     - run: npm ci
-      if: steps.filter.outputs.web == 'true'
+      if: steps.filter.outputs.web == 'true' || steps.filter.outputs.actions == 'true'
     - run: npm run build --if-present
-      if: steps.filter.outputs.web == 'true'
+      if: steps.filter.outputs.web == 'true' || steps.filter.outputs.actions == 'true'
     - run: sudo apt-get install hugo
-      if: steps.filter.outputs.web == 'true'
+      if: steps.filter.outputs.web == 'true' || steps.filter.outputs.actions == 'true'
     - run: hugo
-      if: steps.filter.outputs.web == 'true'
+      if: steps.filter.outputs.web == 'true' || steps.filter.outputs.actions == 'true'
     - run: npm run algolia
-      if: steps.filter.outputs.web == 'true'
+      if: steps.filter.outputs.web == 'true' || steps.filter.outputs.actions == 'true'
       env:
         ALGOLIA_APP_ID: ${{ secrets.ALGOLIA_APP_ID }}
         ALGOLIA_ADMIN_KEY: ${{ secrets.ALGOLIA_ADMIN_KEY }}
