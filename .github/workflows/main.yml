@@ -73,6 +73,7 @@ jobs:
         ALGOLIA_INDEX_FILE: ${{ secrets.ALGOLIA_INDEX_FILE }}
 
     - name: Deploy to AWS
+      if: github.ref == 'refs/heads/master' && github.event_name == 'push'
       uses: jakejarvis/s3-sync-action@master
       with:
         args: --acl public-read --follow-symlinks --delete
