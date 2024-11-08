@@ -120,8 +120,6 @@ Pour résumer, malgré tous ces sacrifices, je suis heureux d'avoir été si bie
 
 Nous sommes le dimanche 10 novembre 2024, le jour du marathon.
 
-Après 14 semaines de préparation, 52 séances, 53 heures de course, près de 550 kilomètres courus, et une perte de 5 kilogrammes (dont un IMG passant de 20% à 12%), me voilà enfin prêt, sur la ligne de départ, réalisant que tous ces efforts vont enfin payer, et que cet objectif de 2019 sera bientôt accompli.
-
 Une dernière fois, je pense au parcours de la course : une traversée gigantesque de Toulouse.
 
 ![Parcours du Marathon de Toulouse 2024](/img/comment-jai-termine-mon-premier-marathon/toulouse-metropole-run-experience-parcours-Visuels_Marathon_site-06.png)
@@ -139,3 +137,5 @@ TBD
 TBD
 
 # Bilan de mon premier marathon
+
+Après 14 semaines de préparation, 52 séances, 53 heures de course, près de 550 kilomètres courus, et une perte de 5 kilogrammes (dont un IMG passant de 20% à 12%), j'ai enfin réaliser cet objectif de 2019.
