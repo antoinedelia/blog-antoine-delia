@@ -3,7 +3,6 @@ title: Comment j'ai terminé mon premier marathon
 author: Antoine Delia
 type: post
 date: 2024-11-11T12:00:00+00:00
-draft: true
 url: /2024/11/11/comment-jai-termine-mon-premier-marathon/
 tags:
     - Personnel
