@@ -2,7 +2,7 @@
 title: Comment j'ai terminé mon premier marathon
 author: Antoine Delia
 type: post
-date: 2024-11-11T12:00:00+00:00
+date: 2024-11-11T10:00:00+00:00
 url: /2024/11/11/comment-jai-termine-mon-premier-marathon/
 tags:
     - Personnel
@@ -171,7 +171,7 @@ Le long de la rue Alsace-Lorraine, dans la dernière ligne droite, je pouvais ap
 
 Alors que je réalisais que je n'avais jamais été aussi proche de la fin, j'entendis des voix familières sur le côté. Ma compagne, mes parents et mon frère étaient là. Je lisais dans leurs yeux leur fierté de me voir être arrivé jusqu'ici. D'avoir tenu. De ne pas avoir abandonné. De m'être battu.
 
-> # BATS-TOI !
+> **BATS-TOI !**
 
 Les larmes me vinrent aux yeux.
 
