@@ -6,7 +6,8 @@ paginate = 5
 preserveTaxonomyNames = true
 googleAnalytics = "G-VD4VGXMSF2"
 
-smartypants = false
+[blackfriday]
+  smartypants = false
 
 [outputs]
 home = ["HTML", "RSS", "Algolia"]
