@@ -2,7 +2,7 @@
 title: Comment j'ai terminé mon premier marathon
 author: Antoine Delia
 type: post
-date: 2024-11-11T14:00:00+00:00
+date: 2024-11-11T12:00:00+00:00
 draft: true
 url: /2024/11/11/comment-jai-termine-mon-premier-marathon/
 tags:
@@ -60,7 +60,7 @@ Avoir un plan, c'est bien, s'y tenir, c'est mieux.
 
 Dans son guide, Hal Higdon précise qu'il est possible de rater quelques sorties en semaine, mais conseille de ne surtout pas manquer les sorties longues du week-end, car ce sont elles qui permettent de gagner en endurance.
 
-Ainsi, malgré trois séances que j'ai délibérément décidé de mettre de côté, je me suis tenu à réaliser ce programme dans sa totalité, et ce malgré des jours de pluie, ou de vacances.
+Ainsi, malgré cinq séances que j'ai délibérément décidé de mettre de côté, je me suis tenu à réaliser ce programme dans sa totalité, et ce malgré des jours de pluie, ou de vacances.
 
 ## Faire confiance en ses propres capacités
 
@@ -184,7 +184,7 @@ Enfin, je rejoignis ma famille, heureux de pouvoir être avec eux pour célébre
 
 ![Antoine Delia résultat Marathon Toulouse 2024](/img/comment-jai-termine-mon-premier-marathon/delia_antoine_resultats_marathon_2024.png)
 
-[Activité Strava](https://www.strava.com/activities/12868148535)
+Plus de détails sont disponibles sur mon [activité Strava](https://www.strava.com/activities/12868148535).
 
 # Bilan de mon premier marathon
 
