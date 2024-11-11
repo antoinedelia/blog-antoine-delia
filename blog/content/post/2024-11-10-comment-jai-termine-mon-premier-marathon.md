@@ -41,20 +41,20 @@ N'ayant que 14 semaines avant le marathon de Toulouse j'ai dû supprimer quatre 
 
 | Semaine |  Lun  |   Mar   |     Mer      |     Jeu     |  Ven  |  Sam      |      Dim      |
 |:-------:|:-----:|:-------:|:------------:|:-----------:|:-----:|:---------:|:-------------:|
-|    1    | Repos | 4.8 km |    6.4 km   | ~~4.8 km~~ | Repos |  8.1 km  |     Repos     |
-|    2    | Repos | 4.8 km |    6.4 km   |   4.8 km   | Repos |  14.5 km |     Repos     |
-|    3    | Repos | 4.8 km |    8.1 km   | ~~4.8 km~~ | Repos |  11.3 km |     Repos     |
-|    4    | Repos | 4.8 km |    9.7 km   |   4.8 km   | Repos |  19.3 km |     Repos     |
-|    5    | Repos | 4.8 km |    9.7 km   |   4.8 km   | Repos |  Repos    | Semi-marathon |
-|    6    | Repos | 4.8 km |   11.3 km   |   6.4 km   | Repos |  16.1 km |     Repos     |
-|    7    | Repos | 4.8 km |   11.3 km   |   6.4 km   | Repos |  24.1 km |     Repos     |
-|    8    | Repos | 6.4 km |   12.9 km   |   8.1 km   | Repos |  19.3 km |     Repos     |
-|    9    | Repos | 6.4 km |   14.5 km   | ~~8.1 km~~ | Repos |  29.0 km |     Repos     |
-|    10   | Repos | 8.1 km |   14.5 km   |   8.1 km   | Repos |  22.5 km |     Repos     |
-|    11   | Repos | 8.1 km |   16.1 km   |   8.1 km   | Repos |  32.2 km |     Repos     |
-|    12   | Repos | 8.1 km |   12.9 km   |   6.4 km   | Repos |  19.3 km |     Repos     |
-|    13   | Repos | 6.4 km |    9.7 km   |   4.8 km   | Repos |  12.9 km |     Repos     |
-|    14   | Repos | 4.8 km |  ~~6.4 km~~ | ~~3.2 km~~ | Repos |  Repos    |    Marathon   |
+|    1    | Repos |  4.8 km |    6.4 km    | ~~4.8 km~~  | Repos |  8.1 km   |     Repos     |
+|    2    | Repos |  4.8 km |    6.4 km    |   4.8 km    | Repos |  14.5 km  |     Repos     |
+|    3    | Repos |  4.8 km |    8.1 km    | ~~4.8 km~~  | Repos |  11.3 km  |     Repos     |
+|    4    | Repos |  4.8 km |    9.7 km    |   4.8 km    | Repos |  19.3 km  |     Repos     |
+|    5    | Repos |  4.8 km |    9.7 km    |   4.8 km    | Repos |  Repos    | Semi-marathon |
+|    6    | Repos |  4.8 km |   11.3 km    |   6.4 km    | Repos |  16.1 km  |     Repos     |
+|    7    | Repos |  4.8 km |   11.3 km    |   6.4 km    | Repos |  24.1 km  |     Repos     |
+|    8    | Repos |  6.4 km |   12.9 km    |   8.1 km    | Repos |  19.3 km  |     Repos     |
+|    9    | Repos |  6.4 km |   14.5 km    | ~~8.1 km~~  | Repos |  29.0 km  |     Repos     |
+|    10   | Repos |  8.1 km |   14.5 km    |   8.1 km    | Repos |  22.5 km  |     Repos     |
+|    11   | Repos |  8.1 km |   16.1 km    |   8.1 km    | Repos |  32.2 km  |     Repos     |
+|    12   | Repos |  8.1 km |   12.9 km    |   6.4 km    | Repos |  19.3 km  |     Repos     |
+|    13   | Repos |  6.4 km |    9.7 km    |   4.8 km    | Repos |  12.9 km  |     Repos     |
+|    14   | Repos |  4.8 km |  ~~6.4 km~~  | ~~3.2 km~~  | Repos |  Repos    |    Marathon   |
 
 Avoir un plan, c'est bien, s'y tenir, c'est mieux.
 
@@ -124,18 +124,68 @@ Une dernière fois, je pense au parcours de la course : une traversée gigantesq
 
 ![Parcours du Marathon de Toulouse 2024](/img/comment-jai-termine-mon-premier-marathon/toulouse-metropole-run-experience-parcours-Visuels_Marathon_site-06.png)
 
-Il est 7h. Je me rends dans le dernier SAS, le jaune, pour les coureurs avec un objectif de 4h30 ou plus. Mon seul objectif à ce moment-là est de pouvoir terminer ce marathon. Je sens mon cœur commençait à s'accélérer. Je prends plusieurs grandes inspirations pour essayer de me calmer, en vain. L'excitation est trop forte, et je le sais.
+Il est 7h. Je me rends dans le dernier SAS, le jaune, pour les coureurs avec un objectif de 4h30 ou plus. Mon seul objectif à ce moment-là est de pouvoir terminer ce marathon.
+
+Mais je repense à cette douleur dans ma jambe droite. Celle qui est apparue une semaine avant. Celle qui m'a fait rater mes deux dernières sorties d'entraînement. La douleur s'est amoindrie, mais elle est toujours là. Et je redoute que cela puisse me faire abandonner la course.
+
+Il faudra de toute façon faire avec. Je sens mon cœur commençait à s'accélérer. Je prends plusieurs grandes inspirations pour essayer de me calmer, en vain. L'excitation est trop forte, et je le sais.
 
 J'entends au loin un bruit qui annonce le départ de la course. Il est 7h30. Le marathon commence.
 
 ## Le Marathon des Géants
 
-TBD
+S'il y a bien une chose que j'ai appris avec mon historique de courses, c'est qu'il faut toujouts partir tranquillement. Car avec la pression et l'émulsion des autres coureurs, il est facile de vouloir tout envoyer dès le début. Une erreur que tout bon coureur fait au moins une fois dans sa vie.
+
+Je m'élance donc tranquillement sur le départ du parcours. Outre la petite douleur à ma jambe droite, tout va bien. Je garde un rythme de croisière qui me va bien. Étrangement, j'ai l'impression que les kilomètres s'enchaînent plus vite que d'habitude. Tant mieux.
+
+![Antoine Delia photo marathon toulouse 2024 5km](/img/comment-jai-termine-mon-premier-marathon/delia_antoine_photo_marathon_2024_1.png)
+
+Les kilomètres passent, et petit à petit, je commence à ressentir une petite gêne au niveau du dos. Puis au niveau du pied. Je fais tout pour ignorer cela, et rester concentré sur ma course.
+
+J'arrive enfin à mi-parcours. 21 kilomètres. Et encore une fois, je me sens nettement plus à l'aise que lors de mes sessions d'entraînement. Un coup d'œil sur ma montre et je constate que je suis toujours dans une moyenne de 6:30/km. Parfait. Le cœur lui, commence à s'accélérer légèrement, mais rien de grave.
+
+Niveau nutrition, là aussi, rien à signaler. J'ai fait le pari de ne pas prendre de sac à dos, et de me contenter de quatre gels dans la poche arrière de mon short. Pour ce qui est de l'eau, je me contenterai des ravitaillements présents tous les cinq kilomètres.
+
+![Antoine Delia photo marathon toulouse 2024 15km](/img/comment-jai-termine-mon-premier-marathon/delia_antoine_photo_marathon_2024_2.png)
+
+Au bout du 32ème kilomètre (ma plus grosse séance d'entraînement), là aussi, je me sentais bien. On parle souvent du "mur" du marathon, ce moment où il n'est plus possible d'avancer, où vos forces vous quittent. Ce moment décisif, où seul le mental peut vous sauver de votre misère. Je pensais qu'il arriverait justement à ce moment-là, mais pas du tout. J'étais encore en forme, et je me disais que je pourrais peut-être ne pas recontrer ce fameux "mur".
+
+C'est au 37ème kilomètre que je compris ma naïveté. Car bien qu'il ne restait plus que cinq petits kilomètres, c'est à ce moment précis qu'il fit son apparition. Le mur. Sans prévenir, je me mis d'un seul coup à perdre mes forces, à avoir du mal à reprendre ma respiration, et à ne plus sentir mes jambes. Et alors que j'arrivais au 40ème kilomètre, j'ai dû faire une pause.
+
+Je marchais donc péniblement pour essayer de récupérer un brin de force pour pouvoir me relancer. Je savais que ce n'était pas chose aisée, car une fois à l'arrêt, le corps a du mal à redémarrer. Mais il fallait que je le fasse. Seuls deux kilomètres me séparaient de la victoire, de la joie, de l'accomplissement.
+
+Je pris une dernière grande inspiration, fis fi de l'état de mes muscles, et m'élançai une dernière fois.
 
 ## Nenikekamen
 
-TBD
+Tel un automate, je mettais un pied devant l'autre, sans vraiment savoir si je le faisais consciemment ou pas. Tout cela n'avait pas d'importance. Ce qui comptait, c'était d'avancer. "Bats-toi !", me soufflait ma voix intérieure.
+
+Petit à petit, j'entendais la foule au loin. Tous ces cris d'encouragement m'aidaient à lutter encore et encore. J'arrivais alors au dernier kilomètre.
+
+> "Bats-toi !"
+
+Qu'est-ce qu'un pauvre kilomètre à parcourir ? Rien du tout. Mais une montagne lorsqu'il s'agit de son dernier kilomètre de marathon. Je n'en pouvais plus. Mes jambes me faisaient comprendre qu'à la seconde où je me relachais, elle cesserait de me porter. Alors je ne pouvais pas, je ne devais pas m'arrêter.
+
+> "BATS-TOI !"
+
+Le long de la rue Alsace-Lorraine, dans la dernière ligne droite, je pouvais apercevoir la ligne d'arrivée. Se pourrait-il que j'y arrive ? Après toutes ces semaines à m'entraîner sans relâche ?
+
+Alors que je réalisais que je n'avais jamais été aussi proche de la fin, j'entendis des voix familières sur le côté. Ma compagne, mes parents et mon frère étaient là. Je lisais dans leurs yeux leur fierté de me voir être arrivé jusqu'ici. D'avoir tenu. De ne pas avoir abandonné. De m'être battu.
+
+> # BATS-TOI !
+
+Les larmes me vinrent aux yeux.
+
+Je réalisais à peine ce que je venais d'accomplir. Mes jambes aussi d'ailleurs, et j'eus du mal à me mouvoir jusqu'à la sortie, où j'ai pû recevoir ma médaille, témoignage de ma réussite.
+
+![Antoine Delia photo marathon toulouse 2024 arrivée](/img/comment-jai-termine-mon-premier-marathon/delia_antoine_photo_marathon_2024_3.png)
+
+Enfin, je rejoignai ma famille, heureux de pouvoir être avec eux pour célébrer cette fin de course. Ils m'apprirent mon temps final : **4:33:08**.
+
+![Antoine Delia résultat Marathon Toulouse 2024](/img/comment-jai-termine-mon-premier-marathon/delia_antoine_resultats_marathon_2024.png)
 
 # Bilan de mon premier marathon
 
-Après 14 semaines de préparation, 52 séances, 53 heures de course, près de 550 kilomètres courus, et une perte de 5 kilogrammes (dont un IMG passant de 20% à 12%), j'ai enfin réaliser cet objectif de 2019.
+Après 14 semaines de préparation, 50 séances, 53 heures de course, près de 550 kilomètres courus, et une perte de 5 kilogrammes (dont un IMG passant de 20% à 12%), j'ai enfin réaliser cet objectif de 2019.
+
+Je suis un marathonien.
