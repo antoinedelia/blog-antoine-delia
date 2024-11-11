@@ -68,7 +68,7 @@ Ainsi, malgré trois séances que j'ai délibérément décidé de mettre de cô
 
 La reprise a été plus que dure. Ayant eu l'habitude d'arrêter et de reprendre la course à pied, je pensais naïvement que cette fois encore, cela serait simple. Mais lors de ma première séance, avec moins de cinq kilomètres à parcourir, je n'ai pas pû aller au bout d'une seule traite, et fût obligé de m'arrêter à mi-parcours, à bout de souffle, avant de repartir tant bien que mal. C'est là que j'ai réalisé que ce ne serait pas une partie de plaisir.
 
-Malgré cela, j'ai tenu bon, et commencé à me sentir plus à l'aise sur ces courtes distances. Mais à peine remis de ces premières émotions, un autre mur allait faire son apparition : les sorties longues. En effet, chaque week-end, ce n'était pas une petite promenade, mais bien des dizaines de kilomètres qu'il fallait parcourir. Et je ne me sentais pas prêt. Rien que la deuxième sortie longue (et ses 14 kilomètres) m'impressionait déjà. Je n'avais jamais couru une telle distance pour un entraînement, et j'avais peur de ne pas être à la hauteur. Toutefois, à ma grande surprise, j'ai réussi à tenir cette distance d'une traite. Les semaines passèrent, et ce schéma se répétait : une appréhension de la distance, mais finalement, une réussite.
+Malgré cela, j'ai tenu bon, et commencé à me sentir plus à l'aise sur ces courtes distances. Mais à peine remis de ces premières émotions, un autre mur allait faire son apparition : les sorties longues. En effet, chaque week-end, ce n'était pas une petite promenade, mais bien des dizaines de kilomètres qu'il fallait parcourir. Et je ne me sentais pas prêt. Rien que la deuxième sortie longue (et ses 14 kilomètres) m'impressionnait déjà. Je n'avais jamais couru une telle distance pour un entraînement, et j'avais peur de ne pas être à la hauteur. Toutefois, à ma grande surprise, j'ai réussi à tenir cette distance d'une traite. Les semaines passèrent, et ce schéma se répétait : une appréhension de la distance, mais finalement, une réussite.
 
 C'est ainsi que je finis par comprendre que je n'avais plus besoin d'avoir peur, et que je pouvais faire confiance en mon corps pour y arriver. Car oui, la route est longue et difficile, mais chaque jour est un peu plus simple que le jour précédent.
 
@@ -134,7 +134,7 @@ J'entends au loin un bruit qui annonce le départ de la course. Il est 7h30. Le 
 
 ## Le Marathon des Géants
 
-S'il y a bien une chose que j'ai appris avec mon historique de courses, c'est qu'il faut toujouts partir tranquillement. Car avec la pression et l'émulsion des autres coureurs, il est facile de vouloir tout envoyer dès le début. Une erreur que tout bon coureur fait au moins une fois dans sa vie.
+S'il y a bien une chose que j'ai apprise avec mon historique de courses, c'est qu'il faut toujours partir tranquillement. Car avec la pression et l'émulation des autres coureurs, il est facile de vouloir tout envoyer dès le début. Une erreur que tout bon coureur fait au moins une fois dans sa vie.
 
 Je m'élance donc tranquillement sur le départ du parcours. Outre la petite douleur à ma jambe droite, tout va bien. Je garde un rythme de croisière qui me va bien. Étrangement, j'ai l'impression que les kilomètres s'enchaînent plus vite que d'habitude. Tant mieux.
 
@@ -148,9 +148,9 @@ Niveau nutrition, là aussi, rien à signaler. J'ai fait le pari de ne pas prend
 
 ![Antoine Delia photo marathon toulouse 2024 15km](/img/comment-jai-termine-mon-premier-marathon/delia_antoine_photo_marathon_2024_2.png)
 
-Au bout du 32ème kilomètre (ma plus grosse séance d'entraînement), là aussi, je me sentais bien. On parle souvent du "mur" du marathon, ce moment où il n'est plus possible d'avancer, où vos forces vous quittent. Ce moment décisif, où seul le mental peut vous sauver de votre misère. Je pensais qu'il arriverait justement à ce moment-là, mais pas du tout. J'étais encore en forme, et je me disais que je pourrais peut-être ne pas recontrer ce fameux "mur".
+Au bout du 32e kilomètre (ma plus grosse séance d'entraînement), là aussi, je me sentais bien. On parle souvent du "mur" du marathon, ce moment où il n'est plus possible d'avancer, où vos forces vous quittent. Ce moment décisif, où seul le mental peut vous sauver de votre misère. Je pensais qu'il arriverait justement à ce moment-là, mais pas du tout. J'étais encore en forme, et je me disais que je pourrais peut-être ne pas rencontrer ce fameux "mur".
 
-C'est au 37ème kilomètre que je compris ma naïveté. Car bien qu'il ne restait plus que cinq petits kilomètres, c'est à ce moment précis qu'il fit son apparition. Le mur. Sans prévenir, je me mis d'un seul coup à perdre mes forces, à avoir du mal à reprendre ma respiration, et à ne plus sentir mes jambes. Et alors que j'arrivais au 40ème kilomètre, j'ai dû faire une pause.
+C'est au 37e kilomètre que je compris ma naïveté. Car bien qu'il ne restait plus que cinq petits kilomètres, c'est à ce moment précis qu'il fit son apparition. Le mur. Sans prévenir, je me mis d'un seul coup à perdre mes forces, à avoir du mal à reprendre ma respiration, et à ne plus sentir mes jambes. Et alors que j'arrivais au 40e kilomètre, j'ai dû faire une pause.
 
 Je marchais donc péniblement pour essayer de récupérer un brin de force pour pouvoir me relancer. Je savais que ce n'était pas chose aisée, car une fois à l'arrêt, le corps a du mal à redémarrer. Mais il fallait que je le fasse. Seuls deux kilomètres me séparaient de la victoire, de la joie, de l'accomplissement.
 
@@ -164,7 +164,7 @@ Petit à petit, j'entendais la foule au loin. Tous ces cris d'encouragement m'ai
 
 > "Bats-toi !"
 
-Qu'est-ce qu'un pauvre kilomètre à parcourir ? Rien du tout. Mais une montagne lorsqu'il s'agit de son dernier kilomètre de marathon. Je n'en pouvais plus. Mes jambes me faisaient comprendre qu'à la seconde où je me relachais, elle cesserait de me porter. Alors je ne pouvais pas, je ne devais pas m'arrêter.
+Qu'est-ce qu'un pauvre kilomètre à parcourir ? Rien du tout. Mais une montagne lorsqu'il s'agit de son dernier kilomètre de marathon. Je n'en pouvais plus. Mes jambes me faisaient comprendre qu'à la seconde où je me relâchais, elle cesserait de me porter. Alors je ne pouvais pas, je ne devais pas m'arrêter.
 
 > "BATS-TOI !"
 
@@ -176,16 +176,20 @@ Alors que je réalisais que je n'avais jamais été aussi proche de la fin, j'en
 
 Les larmes me vinrent aux yeux.
 
-Je réalisais à peine ce que je venais d'accomplir. Mes jambes aussi d'ailleurs, et j'eus du mal à me mouvoir jusqu'à la sortie, où j'ai pû recevoir ma médaille, témoignage de ma réussite.
+Je réalisais à peine ce que je venais d'accomplir. Mes jambes aussi d'ailleurs, et j'eus du mal à me mouvoir jusqu'à la sortie, où j'ai pu recevoir ma médaille, témoignage de ma réussite.
 
 ![Antoine Delia photo marathon toulouse 2024 arrivée](/img/comment-jai-termine-mon-premier-marathon/delia_antoine_photo_marathon_2024_3.png)
 
-Enfin, je rejoignai ma famille, heureux de pouvoir être avec eux pour célébrer cette fin de course. Ils m'apprirent mon temps final : **4:33:08**.
+Enfin, je rejoignis ma famille, heureux de pouvoir être avec eux pour célébrer cette fin de course. Ils m'apprirent mon temps final : **4:33:08**.
 
 ![Antoine Delia résultat Marathon Toulouse 2024](/img/comment-jai-termine-mon-premier-marathon/delia_antoine_resultats_marathon_2024.png)
 
+[Activité Strava](https://www.strava.com/activities/12868148535)
+
 # Bilan de mon premier marathon
 
-Après 14 semaines de préparation, 50 séances, 53 heures de course, près de 550 kilomètres courus, et une perte de 5 kilogrammes (dont un IMG passant de 20% à 12%), j'ai enfin réaliser cet objectif de 2019.
+Après 14 semaines de préparation, 50 séances, 53 heures de course, près de 550 kilomètres, et une perte de 5 kilogrammes (dont un IMG passant de 20% à 12%), j'ai enfin accompli cet objectif de 2019.
 
-Je suis un marathonien.
+Mais le plus important pour moi aura été de voir que j'étais capable de discipline et de persévérance. Après cette épreuve, je sais que je pourrais aller au bout de n'importe quel rêve, pour peu que je m'en donne les moyens.
+
+Et aujourd'hui, c'est avec une grande fierté que je peux le dire : je suis un marathonien.
