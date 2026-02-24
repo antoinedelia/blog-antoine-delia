@@ -97,6 +97,10 @@ jobs:
           web:
             - 'blog/**'
 
+    - name: Update Git Submodules
+      working-directory: ./
+      run: git submodule update --init --recursive
+
     - name: Setup Hugo
       uses: peaceiris/actions-hugo@v3
       with:
