@@ -5,11 +5,11 @@
 
 version: 2
 updates:
-  - package-ecosystem: "npm" # See documentation for possible values
-    directory: "blog/" # Location of package manifests
-    schedule:
-      interval: "weekly"
   - package-ecosystem: "terraform" # See documentation for possible values
     directory: "terraform/" # Location of package manifests
     schedule:
       interval: "weekly"
+    groups:
+      terraform-updates:
+        patterns:
+          - "*"
