@@ -2,9 +2,11 @@ baseURL = 'https://blog.antoinedelia.fr/'
 languageCode = 'fr-FR'
 title = 'Blog - Antoine Delia'
 theme = "hugo-theme-cleanwhite"
-paginate = 5
 preserveTaxonomyNames = true
 googleAnalytics = "G-VD4VGXMSF2"
+
+[pagination]
+  pagerSize = 5
 
 [outputs]
 home = ["HTML", "RSS"]
@@ -43,3 +45,6 @@ home = ["HTML", "RSS"]
     startLevel = 1
   [markup.highlight]
     style = "dracula"
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
