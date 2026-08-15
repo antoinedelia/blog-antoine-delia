@@ -33,8 +33,8 @@ jobs:
       TF_VAR_bucket_name: ${{ secrets.AWS_S3_BUCKET }}
 
     steps:
-    - uses: actions/checkout@v4
-    - uses: dorny/paths-filter@v3
+    - uses: actions/checkout@v7
+    - uses: dorny/paths-filter@v4
       id: filter
       with:
         filters: |
@@ -42,7 +42,7 @@ jobs:
             - 'terraform/**'
 
     - name: Configure AWS Credentials
-      uses: aws-actions/configure-aws-credentials@v5
+      uses: aws-actions/configure-aws-credentials@v6
       with:
         role-to-assume: ${{ secrets.AWS_ROLE_ARN }}
         aws-region: ${{ env.AWS_REGION }}
@@ -50,7 +50,7 @@ jobs:
     # Install the latest version of Terraform CLI
     - name: Setup Terraform
       if: steps.filter.outputs.terraform == 'true'
-      uses: hashicorp/setup-terraform@v3
+      uses: hashicorp/setup-terraform@v4
 
     # Initialize a new or existing Terraform working directory by creating initial files, loading any remote state, downloading modules, etc.
     - name: Terraform Init
@@ -89,8 +89,8 @@ jobs:
         working-directory: blog
 
     steps:
-    - uses: actions/checkout@v4
-    - uses: dorny/paths-filter@v3
+    - uses: actions/checkout@v7
+    - uses: dorny/paths-filter@v4
       id: filter
       with:
         filters: |
@@ -112,7 +112,7 @@ jobs:
       run: hugo
 
     - name: Configure AWS credentials
-      uses: aws-actions/configure-aws-credentials@v5
+      uses: aws-actions/configure-aws-credentials@v6
       with:
         role-to-assume: ${{ secrets.AWS_ROLE_ARN }}
         aws-region: eu-west-1
